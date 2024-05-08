@@ -1,0 +1,32 @@
+CPU Temp         | na         |            | na    | 5.000     | 5.000     | na        | na        | 100.000   | 100.000   
+System Temp      | na         |            | na    | 5.000     | 5.000     | na        | na        | 85.000    | 90.000    
+Peripheral Temp  | na         |            | na    | 5.000     | 5.000     | na        | na        | 85.000    | 90.000    
+M2_SSD1 Temp     | na         |            | na    | na        | na        | na        | na        | na        | na        
+M2_SSD2 Temp     | na         |            | na    | na        | na        | na        | na        | na        | na        
+CPU_VRM Temp     | na         |            | na    | 5.000     | 5.000     | na        | na        | 100.000   | 105.000   
+SOC_VRM Temp     | na         |            | na    | 5.000     | 5.000     | na        | na        | 100.000   | 105.000   
+VRMABCD Temp     | na         |            | na    | 5.000     | 5.000     | na        | na        | 100.000   | 105.000   
+VRMEFGH Temp     | na         |            | na    | 5.000     | 5.000     | na        | na        | 100.000   | 105.000   
+P1_DIMMA~D Temp  | na         |            | na    | 5.000     | 5.000     | na        | na        | 85.000    | 90.000    
+P1_DIMME~H Temp  | na         |            | na    | na        | na        | na        | na        | na        | na        
+FAN1             | na         |            | na    | na        | na        | na        | na        | na        | na        
+FAN2             | na         |            | na    | 280.000   | 420.000   | na        | na        | 35560.000 | 35700.000 
+FAN3             | na         |            | na    | na        | na        | na        | na        | na        | na        
+FAN4             | na         |            | na    | na        | na        | na        | na        | na        | na        
+FAN5             | na         |            | na    | 140.000   | 280.000   | na        | na        | 35560.000 | 35700.000 
+FANA             | na         |            | na    | na        | na        | na        | na        | na        | na        
+FANB             | na         |            | na    | na        | na        | na        | na        | na        | na        
+12V              | na         |            | na    | 9.680     | 9.936     | na        | na        | 14.480    | 14.736    
+5VCC             | na         |            | na    | 3.940     | 4.030     | na        | na        | 5.920     | 6.010     
+3.3VCC           | na         |            | na    | 2.613     | 2.681     | na        | na        | 3.922     | 3.990     
+VBAT             | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+VDDCR            | na         |            | na    | 0.400     | 0.499     | na        | na        | 1.732     | 1.804     
+VMEMABCD         | na         |            | na    | 0.979     | 1.003     | na        | na        | 1.465     | 1.489     
+VMEMEFGH         | na         |            | na    | 0.976     | 0.997     | na        | na        | 1.466     | 1.487     
+VDD_5_DUAL       | na         |            | na    | 4.019     | 4.139     | na        | na        | 6.029     | 6.149     
+VDD_33_DUAL      | na         |            | na    | 2.613     | 2.681     | na        | na        | 3.922     | 3.990     
+SOCRUN           | na         |            | na    | 0.297     | 0.489     | na        | na        | 1.143     | 1.341     
+SOCDUAL          | na         |            | na    | 0.711     | 0.725     | na        | na        | 1.068     | 1.082     
+Chassis Intru    | na         | discrete   | na    | na        | na        | na        | na        | na        | na        
+GPU2 Temp        | na         |            | na    | 5.000     | 5.000     | na        | na        | 93.000    | 96.000    
+GPU4 Temp        | na         |            | na    | 5.000     | 5.000     | na        | na        | 93.000    | 96.000    

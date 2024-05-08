@@ -1,0 +1,110 @@
+   1 | 03/23/2023 | 02:15:38 | OS Critical Stop | OS graceful shutdown () | Asserted
+   2 | 03/23/2023 | 02:12:01 | Unknown #0xff |  | Asserted
+   3 | 03/23/2023 | 02:12:04 | Unknown #0xff |  | Asserted
+   4 | 03/23/2023 | 02:12:10 | Unknown #0xff |  | Asserted
+   5 | 03/23/2023 | 02:12:04 | Unknown #0xff |  | Asserted
+   6 | 03/23/2023 | 02:12:02 | Unknown #0xff |  | Asserted
+   7 | 03/23/2023 | 02:12:00 | Unknown #0xff |  | Asserted
+   8 | 03/23/2023 | 02:12:01 | Unknown #0xff |  | Asserted
+   9 | 03/23/2023 | 02:12:22 | Unknown #0xff |  | Asserted
+   a | 03/23/2023 | 02:12:02 | Unknown #0xff |  | Asserted
+   b | 03/23/2023 | 02:12:02 | Unknown #0xff |  | Asserted
+   c | 03/23/2023 | 02:12:04 | Unknown #0xff |  | Asserted
+   d | 03/23/2023 | 02:12:07 | Unknown #0xff |  | Asserted
+   e | 03/23/2023 | 02:12:09 | Unknown #0xff |  | Asserted
+   f | 03/23/2023 | 02:11:51 | Unknown #0xff |  | Asserted
+  10 | 01/01/2011 | 00:00:29 | Battery | Low () | Asserted
+  11 | 01/01/2011 | 00:00:51 | Unknown #0xff |  | Asserted
+  12 | 01/01/2011 | 00:00:30 | Battery | Low () | Asserted
+  13 | 01/01/2011 | 00:00:52 | Unknown #0xff |  | Asserted
+  14 | 01/01/2011 | 00:00:30 | Battery | Low () | Asserted
+  15 | 01/01/2011 | 00:00:49 | Unknown #0xff |  | Asserted
+  16 | 03/23/2023 | 02:12:04 | Unknown #0xff |  | Asserted
+  17 | 03/23/2023 | 02:12:11 | Unknown #0xff |  | Asserted
+  18 | 03/20/2023 | 15:06:24 | Memory | Memory Device Disabled (@DIMMH1(CPU1)) | Asserted
+  19 | 03/20/2023 | 15:10:41 | Memory | Memory Device Disabled (@DIMMH1(CPU1)) | Asserted
+  1a | 03/23/2023 | 02:12:11 | Unknown #0xff |  | Asserted
+  1b | 03/23/2023 | 02:12:01 | Unknown #0xff |  | Asserted
+  1c | 03/21/2023 | 13:35:49 | Unknown #0xff |  | Asserted
+  1d | 03/21/2023 | 13:42:36 | Unknown #0xff |  | Asserted
+  1e | 03/21/2023 | 14:55:42 | Unknown #0xff |  | Asserted
+  1f | 01/24/2024 | 18:18:25 | Unknown #0xff |  | Asserted
+  20 | 01/25/2024 | 02:10:33 | Unknown #0xff |  | Asserted
+  21 | 01/25/2024 | 02:21:34 | Fan FANA | Lower Critical going low  | Asserted | Reading 0 < Threshold 420 RPM
+  22 | 01/25/2024 | 02:21:34 | Fan FANA | Lower Non-recoverable going low  | Asserted | Reading 0 < Threshold 280 RPM
+  23 | 01/26/2024 | 15:06:20 | Unknown #0xff |  | Asserted
+  24 | 03/23/2023 | 02:12:13 | Unknown #0xff |  | Asserted
+  25 | 01/28/2024 | 00:35:51 | OS Boot | C: boot completed () | Asserted
+  26 | 01/28/2024 | 00:45:13 | OS Boot | C: boot completed () | Asserted
+  27 | 01/28/2024 | 00:48:10 | OS Boot | C: boot completed () | Asserted
+  28 | 01/28/2024 | 00:57:01 | OS Critical Stop | OS graceful shutdown () | Asserted
+  29 | 01/28/2024 | 08:58:00 | OS Boot | C: boot completed () | Asserted
+  2a | 01/28/2024 | 09:05:15 | OS Critical Stop | OS graceful shutdown () | Asserted
+  2b | 01/28/2024 | 09:21:11 | OS Boot | C: boot completed () | Asserted
+  2c | 01/28/2024 | 14:49:28 | OS Critical Stop | OS graceful shutdown () | Asserted
+  2d | 01/28/2024 | 14:50:22 | OS Boot | C: boot completed () | Asserted
+  2e | 01/30/2024 | 00:42:27 | OS Critical Stop | OS graceful shutdown () | Asserted
+  2f | 01/30/2024 | 09:41:57 | OS Boot | C: boot completed () | Asserted
+  30 | 01/30/2024 | 09:43:46 | OS Critical Stop | OS graceful shutdown () | Asserted
+  31 | 01/30/2024 | 09:45:15 | OS Boot | C: boot completed () | Asserted
+  32 | 01/30/2024 | 09:46:19 | OS Critical Stop | OS graceful shutdown () | Asserted
+  33 | 01/30/2024 | 03:13:36 | OS Boot | C: boot completed () | Asserted
+  34 | 01/30/2024 | 03:33:37 | OS Boot | C: boot completed () | Asserted
+  35 | 01/30/2024 | 03:34:51 | OS Critical Stop | OS graceful shutdown () | Asserted
+  36 | 01/30/2024 | 03:39:39 | OS Boot | C: boot completed () | Asserted
+  37 | 01/30/2024 | 05:06:09 | Unknown #0xff |  | Asserted
+  38 | 01/31/2024 | 12:01:18 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  39 | 01/31/2024 | 12:03:08 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  3a | 01/31/2024 | 12:08:53 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  3b | 01/31/2024 | 12:11:13 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  3c | 01/31/2024 | 14:55:09 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  3d | 01/31/2024 | 14:58:38 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  3e | 02/01/2024 | 06:36:42 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  3f | 02/01/2024 | 06:45:13 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  40 | 02/01/2024 | 06:48:25 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  41 | 02/01/2024 | 06:51:21 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  42 | 02/01/2024 | 07:58:45 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  43 | 02/01/2024 | 08:00:01 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  44 | 02/02/2024 | 09:47:37 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  45 | 02/02/2024 | 09:49:51 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  46 | 02/03/2024 | 08:15:48 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  47 | 02/03/2024 | 08:20:12 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  48 | 02/03/2024 | 08:23:20 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  49 | 02/03/2024 | 08:26:15 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  4a | 02/06/2024 | 10:08:09 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  4b | 02/06/2024 | 10:14:11 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  4c | 02/06/2024 | 10:17:31 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  4d | 02/06/2024 | 10:20:36 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  4e | 02/16/2024 | 15:13:30 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  4f | 02/16/2024 | 15:15:16 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 93 > Threshold 93 degrees C
+  50 | 02/16/2024 | 15:22:49 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 88 > Threshold 93 degrees C
+  51 | 02/16/2024 | 15:25:29 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  52 | 02/17/2024 | 23:27:38 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  53 | 02/17/2024 | 23:27:58 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  54 | 02/18/2024 | 01:22:17 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  55 | 02/18/2024 | 01:30:31 | Temperature CPU Temp | Upper Critical going high | Deasserted | Reading -1 > Threshold -1 degrees C
+  56 | 02/18/2024 | 02:17:08 | Temperature CPU Temp | Upper Critical going high | Asserted | Reading -1 > Threshold -1 degrees C
+  57 | 02/18/2024 | 02:25:03 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 94 > Threshold 93 degrees C
+  58 | 02/18/2024 | 02:26:47 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 89 > Threshold 93 degrees C
+  59 | 02/18/2024 | 02:27:03 | Unknown #0xff | () | Asserted
+  5a | 02/18/2024 | 04:35:17 | Unknown #0xff |  | Asserted
+  5b | 02/19/2024 | 00:34:12 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 93 > Threshold 93 degrees C
+  5c | 02/19/2024 | 00:41:01 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 89 > Threshold 93 degrees C
+  5d | 02/19/2024 | 01:12:33 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 93 > Threshold 93 degrees C
+  5e | 02/19/2024 | 01:33:02 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 85 > Threshold 93 degrees C
+  5f | 02/19/2024 | 01:48:09 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 93 > Threshold 93 degrees C
+  60 | 02/19/2024 | 02:36:49 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 85 > Threshold 93 degrees C
+  61 | 03/23/2023 | 02:12:02 | Unknown #0xff |  | Asserted
+  62 | 03/04/2024 | 01:46:41 | Temperature GPU1 Temp | Upper Critical going high | Asserted | Reading 93 > Threshold 93 degrees C
+  63 | 03/04/2024 | 01:55:03 | Temperature GPU1 Temp | Upper Critical going high | Deasserted | Reading 85 > Threshold 93 degrees C
+  64 | 03/23/2023 | 02:12:04 | Unknown #0xff |  | Asserted
+  65 | 03/13/2024 | 03:49:35 | Unknown #0xff |  | Asserted
+  66 | 03/13/2024 | 03:49:38 | Unknown #0xff |  | Asserted
+  67 | 04/02/2024 | 07:06:05 | Session Audit #0xff |  | Asserted
+  68 | 04/02/2024 | 07:06:11 | Session Audit #0xff |  | Asserted
+  69 | 04/02/2024 | 07:06:39 | Session Audit #0xff |  | Asserted
+  6a | 04/02/2024 | 07:07:20 | Session Audit #0xff |  | Asserted
+  6b | 04/02/2024 | 07:07:31 | Session Audit #0xff |  | Asserted
+  6c | 04/02/2024 | 07:23:57 | Session Audit #0xff |  | Asserted
+  6d | 04/02/2024 | 07:23:59 | Session Audit #0xff |  | Asserted
+  6e | 04/22/2024 | 13:05:54 | Session Audit #0xff |  | Asserted

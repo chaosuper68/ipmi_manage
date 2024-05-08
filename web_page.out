@@ -1,0 +1,891 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://10.168.1.115:8503
+  External URL: http://163.125.208.154:8503
+
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:63: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x: x.strip())
+/home/ubuntu/data/code/ipmi_manage/py_ipmi.py:64: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  new_df['传感器'] = new_df['传感器'].map(lambda x:sensor_map_dict.get(x) if x in sensor_map_dict else x)
+host_name:  3090-1st
+host_name:  3090-2nd
+host_name:  3090-3rd
+host_name:  4090
+host_name:  logic-3090
+host_name:  3090-2nd
+host_name:  logic-3090
+host_name:  3090-1st
+host_name:  logic-3090
+host_name:  3090-2nd
+host_name:  3090-3rd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  logic-3090
+host_name:  logic-3090
+host_name:  logic-3090
+host_name:  logic-3090
+host_name:  logic-3090
+host_name:  3090-2nd
+host_name:  3090-1st
+host_name:  3090-2nd
+host_name:  3090-1st
+host_name:  3090-1st
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+host_name:  3090-2nd
+  Stopping...

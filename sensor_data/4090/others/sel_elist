@@ -1,0 +1,1022 @@
+ 2a9 | 01/25/2024 | 02:03:46 | System Event | OEM System boot event | Asserted
+ 2aa | 01/25/2024 | 02:06:24 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ab | 01/25/2024 | 03:18:29 | System Event | OEM System boot event | Asserted
+ 2ac | 01/25/2024 | 03:20:02 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ad | 01/25/2024 | 03:21:02 | System Event | OEM System boot event | Asserted
+ 2ae | 01/25/2024 | 03:23:44 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2af | 01/25/2024 | 03:30:58 | System Event | OEM System boot event | Asserted
+ 2b0 | 01/25/2024 | 03:31:14 | System Event | Timestamp Clock Sync | Asserted
+ 2b1 | 01/25/2024 | 03:31:14 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2b2 | 01/25/2024 | 03:31:16 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2b3 | 01/25/2024 | 03:31:17 | System Event | Timestamp Clock Sync | Asserted
+ 2b4 | 01/25/2024 | 03:32:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2b5 | 01/25/2024 | 03:38:26 | Power Unit #0xff | Power off/down | Asserted
+ 2b6 | 01/25/2024 | 03:41:48 | Power Unit #0xff | Power off/down | Deasserted
+ 2b7 | 01/25/2024 | 03:42:18 | System Event | OEM System boot event | Asserted
+ 2b8 | 01/25/2024 | 03:43:41 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2b9 | 01/25/2024 | 05:55:31 | System Event | OEM System boot event | Asserted
+ 2ba | 01/25/2024 | 05:57:02 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2bb | 01/25/2024 | 06:01:01 | System Event | OEM System boot event | Asserted
+ 2bc | 01/25/2024 | 06:02:37 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2bd | 01/25/2024 | 06:08:16 | Power Unit #0xff | Power off/down | Asserted
+ 2be | 01/25/2024 | 06:08:17 | Power Unit #0xff | Power off/down | Deasserted
+ 2bf | 01/25/2024 | 06:08:47 | System Event | OEM System boot event | Asserted
+ 2c0 | 01/25/2024 | 06:10:18 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2c1 | 01/25/2024 | 06:14:17 | Power Unit #0xff | Power off/down | Asserted
+ 2c2 | 01/25/2024 | 06:14:39 | Power Unit #0xff | Power off/down | Deasserted
+ 2c3 | 01/25/2024 | 06:15:09 | System Event | OEM System boot event | Asserted
+ 2c4 | 01/25/2024 | 06:17:11 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2c5 | 01/25/2024 | 06:44:26 | System Event | OEM System boot event | Asserted
+ 2c6 | 01/25/2024 | 06:46:34 | System Event | OEM System boot event | Asserted
+ 2c7 | 01/25/2024 | 06:49:28 | System Event | OEM System boot event | Asserted
+ 2c8 | 01/25/2024 | 06:52:01 | System Event | OEM System boot event | Asserted
+ 2c9 | 01/25/2024 | 06:53:41 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ca | 01/25/2024 | 07:03:35 | System Event | OEM System boot event | Asserted
+ 2cb | 01/25/2024 | 07:05:43 | System Event | OEM System boot event | Asserted
+ 2cc | 01/25/2024 | 07:07:28 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2cd | 01/25/2024 | 07:14:51 | Power Unit #0xff | Power off/down | Asserted
+ 2ce | 01/25/2024 | 07:15:09 | Power Unit #0xff | Power off/down | Deasserted
+ 2cf | 01/25/2024 | 07:15:39 | System Event | OEM System boot event | Asserted
+ 2d0 | 01/25/2024 | 07:35:33 | System Event | OEM System boot event | Asserted
+ 2d1 | 01/25/2024 | 07:37:18 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2d2 | 01/25/2024 | 07:44:03 | System Event | OEM System boot event | Asserted
+ 2d3 | 01/25/2024 | 07:49:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2d4 | 01/25/2024 | 07:50:35 | System Event | OEM System boot event | Asserted
+ 2d5 | 01/25/2024 | 07:54:00 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2d6 | 01/25/2024 | 08:00:17 | System Event | OEM System boot event | Asserted
+ 2d7 | 01/25/2024 | 08:04:01 | System Event | OEM System boot event | Asserted
+ 2d8 | 01/25/2024 | 08:06:48 | System Event | OEM System boot event | Asserted
+ 2d9 | 01/25/2024 | 08:09:06 | System Event | OEM System boot event | Asserted
+ 2da | 01/25/2024 | 08:11:43 | System Event | OEM System boot event | Asserted
+ 2db | 01/25/2024 | 08:13:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2dc | 01/25/2024 | 08:41:09 | System Event | OEM System boot event | Asserted
+ 2dd | 01/25/2024 | 08:44:14 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2de | 01/25/2024 | 08:44:54 | System Event | OEM System boot event | Asserted
+ 2df | 01/25/2024 | 08:46:49 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e0 | 01/25/2024 | 08:52:25 | System Event | OEM System boot event | Asserted
+ 2e1 | 01/25/2024 | 08:55:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e2 | 01/25/2024 | 09:30:06 | System Event | OEM System boot event | Asserted
+ 2e3 | 01/25/2024 | 09:31:39 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e4 | 01/25/2024 | 09:49:44 | System Event | OEM System boot event | Asserted
+ 2e5 | 01/25/2024 | 09:51:19 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e6 | 01/25/2024 | 09:59:07 | Power Unit #0xff | Power off/down | Asserted
+ 2e7 | 01/25/2024 | 09:59:30 | Power Unit #0xff | Power off/down | Deasserted
+ 2e8 | 01/25/2024 | 10:00:01 | System Event | OEM System boot event | Asserted
+ 2e9 | 01/25/2024 | 10:01:37 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ea | 01/25/2024 | 10:09:37 | System Event | OEM System boot event | Asserted
+ 2eb | 01/25/2024 | 10:11:10 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ec | 01/25/2024 | 13:24:33 | System Event | OEM System boot event | Asserted
+ 2ed | 01/25/2024 | 13:26:05 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ee | 01/25/2024 | 13:35:08 | System Event | OEM System boot event | Asserted
+ 2ef | 01/25/2024 | 13:35:24 | System Event | Timestamp Clock Sync | Asserted
+ 2f0 | 01/25/2024 | 13:35:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2f1 | 01/25/2024 | 13:35:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2f2 | 01/25/2024 | 13:35:22 | System Event | Timestamp Clock Sync | Asserted
+ 2f3 | 01/25/2024 | 13:36:41 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2f4 | 01/25/2024 | 13:52:11 | System Event | OEM System boot event | Asserted
+ 2f5 | 01/25/2024 | 13:53:45 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2f6 | 01/25/2024 | 14:05:43 | System Event | OEM System boot event | Asserted
+ 2f7 | 01/25/2024 | 14:07:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2f8 | 01/25/2024 | 15:23:16 | System Event | OEM System boot event | Asserted
+ 2f9 | 01/25/2024 | 15:24:48 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2fa | 01/25/2024 | 15:30:08 | System Event | OEM System boot event | Asserted
+ 2fb | 01/25/2024 | 15:31:50 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2fc | 01/25/2024 | 15:49:51 | System Event | OEM System boot event | Asserted
+ 2fd | 01/25/2024 | 15:51:25 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2fe | 01/25/2024 | 15:55:43 | Power Unit #0xff | Power off/down | Asserted
+ 2ff | 01/25/2024 | 15:55:51 | Power Unit #0xff | Power off/down | Deasserted
+ 300 | 01/25/2024 | 15:56:21 | System Event | OEM System boot event | Asserted
+ 301 | 01/25/2024 | 15:57:48 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 302 | 01/25/2024 | 16:00:29 | Power Unit #0xff | Power off/down | Asserted
+ 303 | 01/25/2024 | 16:00:41 | Power Unit #0xff | Power off/down | Deasserted
+ 304 | 01/25/2024 | 16:01:11 | System Event | OEM System boot event | Asserted
+ 305 | 01/25/2024 | 16:02:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 306 | 01/25/2024 | 16:36:24 | System Event | OEM System boot event | Asserted
+ 307 | 01/25/2024 | 16:37:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 308 | 01/26/2024 | 03:05:45 | System Event | OEM System boot event | Asserted
+ 309 | 01/26/2024 | 03:07:18 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30a | 01/26/2024 | 03:14:23 | System Event | OEM System boot event | Asserted
+ 30b | 01/26/2024 | 03:16:03 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30c | 01/26/2024 | 03:18:57 | System Event | OEM System boot event | Asserted
+ 30d | 01/26/2024 | 03:20:42 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30e | 01/26/2024 | 03:48:57 | System Event | OEM System boot event | Asserted
+ 30f | 01/26/2024 | 03:50:31 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 310 | 01/26/2024 | 03:52:35 | System Event | OEM System boot event | Asserted
+ 311 | 01/26/2024 | 03:54:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 312 | 01/26/2024 | 03:56:13 | System Event | OEM System boot event | Asserted
+ 313 | 01/26/2024 | 03:58:05 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 314 | 01/26/2024 | 04:42:05 | System Event | OEM System boot event | Asserted
+ 315 | 01/26/2024 | 04:43:39 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 316 | 01/26/2024 | 04:47:10 | System Event | OEM System boot event | Asserted
+ 317 | 01/26/2024 | 04:48:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 318 | 01/26/2024 | 04:50:45 | System Event | OEM System boot event | Asserted
+ 319 | 01/26/2024 | 04:52:36 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 31a | 01/26/2024 | 05:01:17 | System Event | OEM System boot event | Asserted
+ 31b | 01/26/2024 | 05:03:22 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 31c | 01/26/2024 | 05:59:15 | System Event | OEM System boot event | Asserted
+ 31d | 01/26/2024 | 06:01:01 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 31e | 01/26/2024 | 07:36:26 | System Event | OEM System boot event | Asserted
+ 31f | 01/26/2024 | 07:37:58 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 320 | 01/26/2024 | 07:52:48 | System Event | OEM System boot event | Asserted
+ 321 | 01/26/2024 | 07:54:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 322 | 01/26/2024 | 08:33:16 | System Event | OEM System boot event | Asserted
+ 323 | 01/26/2024 | 08:33:32 | System Event | Timestamp Clock Sync | Asserted
+ 324 | 01/26/2024 | 08:33:32 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 325 | 01/26/2024 | 08:33:34 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 326 | 01/26/2024 | 08:33:35 | System Event | Timestamp Clock Sync | Asserted
+ 327 | 01/26/2024 | 08:34:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 328 | 01/26/2024 | 10:10:45 | System Event | OEM System boot event | Asserted
+ 329 | 01/26/2024 | 10:12:37 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 32a | 01/26/2024 | 10:14:44 | System Event | OEM System boot event | Asserted
+ 32b | 01/26/2024 | 10:16:25 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 32c | 01/26/2024 | 10:23:55 | System Event | OEM System boot event | Asserted
+ 32d | 01/26/2024 | 10:25:30 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 32e | 01/26/2024 | 11:16:16 | System Event | OEM System boot event | Asserted
+ 32f | 01/26/2024 | 11:17:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 330 | 01/26/2024 | 15:19:22 | Power Unit #0xff | Power off/down | Asserted
+ 331 | 01/26/2024 | 15:19:43 | Event Logging Disabled SEL | Log almost full | Asserted
+ 332 | 01/26/2024 | 15:19:43 | Processor CPU0_Status | Presence detected | Asserted
+ 333 | 01/26/2024 | 15:21:45 | Power Unit #0xff | Power off/down | Deasserted
+ 334 | 01/26/2024 | 15:22:15 | System Event | OEM System boot event | Asserted
+ 335 | 01/26/2024 | 15:22:24 | System Event | Timestamp Clock Sync | Asserted
+ 336 | 01/26/2024 | 15:22:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 337 | 01/26/2024 | 16:06:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 338 | 01/26/2024 | 16:06:22 | System Event | Timestamp Clock Sync | Asserted
+ 339 | 01/26/2024 | 16:07:38 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 33a | 01/27/2024 | 03:17:12 | Power Unit #0xff | Power off/down | Asserted
+ 33b | 01/27/2024 | 03:18:38 | Power Unit #0xff | Power off/down | Deasserted
+ 33c | 01/27/2024 | 03:19:08 | System Event | OEM System boot event | Asserted
+ 33d | 01/27/2024 | 03:20:34 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 33e | 01/27/2024 | 03:39:09 | System Event | OEM System boot event | Asserted
+ 33f | 01/27/2024 | 03:40:41 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 340 | 01/29/2024 | 06:38:48 | Power Unit #0xff | Power off/down | Asserted
+ 341 | 01/29/2024 | 06:39:10 | Processor CPU0_Status | Presence detected | Asserted
+ 342 | 01/29/2024 | 06:51:24 | Power Unit #0xff | Power off/down | Deasserted
+ 343 | 01/29/2024 | 06:51:54 | System Event | OEM System boot event | Asserted
+ 344 | 01/29/2024 | 06:52:03 | System Event | Timestamp Clock Sync | Asserted
+ 345 | 01/29/2024 | 06:52:03 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 346 | 01/29/2024 | 07:12:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 347 | 01/29/2024 | 07:12:22 | System Event | Timestamp Clock Sync | Asserted
+ 348 | 01/29/2024 | 07:13:40 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 349 | 01/29/2024 | 07:19:40 | Power Unit #0xff | Power off/down | Asserted
+ 34a | 01/29/2024 | 07:20:02 | Processor CPU0_Status | Presence detected | Asserted
+ 34b | 01/29/2024 | 07:20:57 | Power Unit #0xff | Power off/down | Deasserted
+ 34c | 01/29/2024 | 07:22:00 | System Event | OEM System boot event | Asserted
+ 34d | 01/29/2024 | 07:22:09 | System Event | Timestamp Clock Sync | Asserted
+ 34e | 01/29/2024 | 07:22:09 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 34f | 01/29/2024 | 07:38:29 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 350 | 01/29/2024 | 07:38:30 | System Event | Timestamp Clock Sync | Asserted
+ 351 | 01/29/2024 | 07:39:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 352 | 01/29/2024 | 07:42:24 | Power Unit #0xff | Power off/down | Asserted
+ 353 | 01/29/2024 | 07:43:45 | System Event | OEM System boot event | Asserted
+ 354 | 01/29/2024 | 07:43:54 | System Event | Timestamp Clock Sync | Asserted
+ 355 | 01/29/2024 | 07:43:54 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 356 | 01/29/2024 | 14:07:23 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 357 | 01/29/2024 | 14:07:23 | System Event | Timestamp Clock Sync | Asserted
+ 358 | 01/29/2024 | 14:08:14 | Processor CPU0_Status | Presence detected | Asserted
+ 359 | 01/29/2024 | 14:14:57 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35a | 01/29/2024 | 14:29:05 | Power Unit #0xff | Power off/down | Asserted
+ 35b | 01/29/2024 | 14:30:15 | Power Unit #0xff | Power off/down | Deasserted
+ 35c | 01/29/2024 | 14:30:45 | System Event | OEM System boot event | Asserted
+ 35d | 01/29/2024 | 14:32:13 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35e | 01/29/2024 | 15:06:27 | Power Unit #0xff | Power off/down | Asserted
+ 35f | 01/29/2024 | 15:06:34 | Power Unit #0xff | Power off/down | Deasserted
+ 360 | 01/29/2024 | 15:07:05 | System Event | OEM System boot event | Asserted
+ 361 | 01/29/2024 | 15:12:32 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 362 | 01/29/2024 | 15:25:12 | Power Unit #0xff | Power off/down | Asserted
+ 363 | 01/29/2024 | 15:25:18 | Power Unit #0xff | Power off/down | Deasserted
+ 364 | 01/29/2024 | 15:25:49 | System Event | OEM System boot event | Asserted
+ 365 | 01/29/2024 | 15:31:50 | Watchdog2 Watchdog | Timer expired | Asserted
+ 366 | 01/29/2024 | 15:40:05 | Power Unit #0xff | Power off/down | Asserted
+ 367 | 01/29/2024 | 15:40:12 | Power Unit #0xff | Power off/down | Deasserted
+ 368 | 01/29/2024 | 15:40:43 | System Event | OEM System boot event | Asserted
+ 369 | 01/29/2024 | 15:46:43 | Watchdog2 Watchdog | Timer expired | Asserted
+ 36a | 01/29/2024 | 16:04:19 | Power Unit #0xff | Power off/down | Asserted
+ 36b | 01/29/2024 | 16:04:26 | Power Unit #0xff | Power off/down | Deasserted
+ 36c | 01/29/2024 | 16:04:57 | System Event | OEM System boot event | Asserted
+ 36d | 01/29/2024 | 16:10:57 | Watchdog2 Watchdog | Timer expired | Asserted
+ 36e | 01/29/2024 | 16:23:39 | System Event | OEM System boot event | Asserted
+ 36f | 01/29/2024 | 16:26:53 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 370 | 01/29/2024 | 16:34:47 | System Event | OEM System boot event | Asserted
+ 371 | 01/29/2024 | 16:36:31 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 372 | 01/29/2024 | 16:40:37 | System Event | OEM System boot event | Asserted
+ 373 | 01/29/2024 | 16:41:15 | Power Unit #0xff | Power off/down | Asserted
+ 374 | 01/30/2024 | 08:54:58 | Power Unit #0xff | Power off/down | Deasserted
+ 375 | 01/30/2024 | 08:55:28 | System Event | OEM System boot event | Asserted
+ 376 | 01/30/2024 | 08:55:37 | System Event | Timestamp Clock Sync | Asserted
+ 377 | 01/30/2024 | 08:55:37 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 378 | 01/30/2024 | 08:55:41 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 379 | 01/30/2024 | 08:55:44 | System Event | Timestamp Clock Sync | Asserted
+ 37a | 01/30/2024 | 08:57:30 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 37b | 01/30/2024 | 09:03:37 | System Event | OEM System boot event | Asserted
+ 37c | 01/30/2024 | 09:05:54 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 37d | 01/30/2024 | 09:09:50 | Power Unit #0xff | Power off/down | Asserted
+ 37e | 01/30/2024 | 09:10:07 | Power Unit #0xff | Power off/down | Deasserted
+ 37f | 01/30/2024 | 09:10:37 | System Event | OEM System boot event | Asserted
+ 380 | 01/30/2024 | 09:12:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 381 | 01/30/2024 | 09:18:17 | Power Unit #0xff | Power off/down | Asserted
+ 382 | 01/30/2024 | 09:30:02 | Power Unit #0xff | Power off/down | Deasserted
+ 383 | 01/30/2024 | 09:30:33 | System Event | OEM System boot event | Asserted
+ 384 | 01/30/2024 | 09:37:43 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 385 | 01/30/2024 | 09:38:47 | System Event | OEM System boot event | Asserted
+ 386 | 01/30/2024 | 09:41:18 | Power Unit #0xff | Power off/down | Asserted
+ 387 | 01/30/2024 | 09:41:26 | Power Unit #0xff | Power off/down | Deasserted
+ 388 | 01/30/2024 | 09:41:56 | System Event | OEM System boot event | Asserted
+ 389 | 01/30/2024 | 09:43:38 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 38a | 01/31/2024 | 03:24:41 | Power Unit #0xff | Power off/down | Asserted
+ 38b | 02/01/2024 | 06:28:11 | Power Unit #0xff | Power off/down | Deasserted
+ 38c | 02/01/2024 | 06:28:42 | System Event | OEM System boot event | Asserted
+ 38d | 02/01/2024 | 06:34:43 | Watchdog2 Watchdog | Timer expired | Asserted
+ 38e | 02/01/2024 | 07:05:20 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 38f | 02/01/2024 | 07:12:23 | System Event | OEM System boot event | Asserted
+ 390 | 02/01/2024 | 07:18:24 | Watchdog2 Watchdog | Timer expired | Asserted
+ 391 | 02/01/2024 | 07:20:58 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 392 | 02/01/2024 | 07:38:57 | Power Unit #0xff | Power off/down | Asserted
+ 393 | 02/01/2024 | 07:39:04 | Power Unit #0xff | Power off/down | Deasserted
+ 394 | 02/01/2024 | 07:39:35 | System Event | OEM System boot event | Asserted
+ 395 | 02/01/2024 | 07:45:47 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 396 | 02/01/2024 | 07:54:16 | Power Unit #0xff | Power off/down | Asserted
+ 397 | 02/01/2024 | 08:12:11 | Power Unit #0xff | Power off/down | Deasserted
+ 398 | 02/01/2024 | 08:12:42 | System Event | OEM System boot event | Asserted
+ 399 | 02/01/2024 | 08:19:20 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 39a | 02/01/2024 | 08:30:56 | Power Unit #0xff | Power off/down | Asserted
+ 39b | 02/01/2024 | 08:31:04 | Power Unit #0xff | Power off/down | Deasserted
+ 39c | 02/01/2024 | 08:31:34 | System Event | OEM System boot event | Asserted
+ 39d | 02/01/2024 | 08:37:38 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 39e | 02/01/2024 | 09:24:48 | Power Unit #0xff | Power off/down | Asserted
+ 39f | 02/01/2024 | 12:27:13 | Power Unit #0xff | Power off/down | Deasserted
+ 3a0 | 02/01/2024 | 12:27:44 | System Event | OEM System boot event | Asserted
+ 3a1 | 02/01/2024 | 12:29:44 | Power Unit #0xff | Power off/down | Asserted
+ 3a2 | 02/01/2024 | 12:29:49 | Power Unit #0xff | Power off/down | Deasserted
+ 3a3 | 02/01/2024 | 12:30:19 | System Event | OEM System boot event | Asserted
+ 3a4 | 02/01/2024 | 12:32:20 | System Event | OEM System boot event | Asserted
+ 3a5 | 02/01/2024 | 12:34:26 | System Event | OEM System boot event | Asserted
+ 3a6 | 02/01/2024 | 12:35:59 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3a7 | 02/01/2024 | 14:07:30 | System Event | OEM System boot event | Asserted
+ 3a8 | 02/01/2024 | 14:08:52 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3a9 | 02/01/2024 | 14:30:41 | System Event | OEM System boot event | Asserted
+ 3aa | 02/01/2024 | 14:32:10 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ab | 02/01/2024 | 14:35:37 | Power Unit #0xff | Power off/down | Asserted
+ 3ac | 02/02/2024 | 07:25:39 | Power Unit #0xff | Power off/down | Deasserted
+ 3ad | 02/02/2024 | 07:26:10 | System Event | OEM System boot event | Asserted
+ 3ae | 02/02/2024 | 08:01:27 | Processor CPU0_Status | Presence detected | Asserted
+ 3af | 02/02/2024 | 08:56:40 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3b0 | 02/03/2024 | 13:30:41 | System Event | OEM System boot event | Asserted
+ 3b1 | 02/03/2024 | 13:31:43 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3b2 | 02/04/2024 | 09:08:59 | Power Unit #0xff | Power off/down | Asserted
+ 3b3 | 02/04/2024 | 09:45:52 | Power Unit #0xff | Power off/down | Deasserted
+ 3b4 | 02/04/2024 | 09:46:23 | System Event | OEM System boot event | Asserted
+ 3b5 | 02/04/2024 | 09:47:19 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3b6 | 02/04/2024 | 12:44:13 | Power Unit #0xff | Power off/down | Asserted
+ 3b7 | 02/04/2024 | 12:44:20 | Power Unit #0xff | Power off/down | Deasserted
+ 3b8 | 02/04/2024 | 12:44:51 | System Event | OEM System boot event | Asserted
+ 3b9 | 02/04/2024 | 12:54:09 | Power Unit #0xff | Power off/down | Asserted
+ 3ba | 02/04/2024 | 12:54:15 | Power Unit #0xff | Power off/down | Deasserted
+ 3bb | 02/04/2024 | 12:54:46 | System Event | OEM System boot event | Asserted
+ 3bc | 02/04/2024 | 13:04:52 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3bd | 02/04/2024 | 13:09:04 | System Event | OEM System boot event | Asserted
+ 3be | 02/04/2024 | 13:16:55 | Power Unit #0xff | Power off/down | Asserted
+ 3bf | 02/04/2024 | 13:20:28 | Power Unit #0xff | Power off/down | Deasserted
+ 3c0 | 02/04/2024 | 13:20:59 | System Event | OEM System boot event | Asserted
+ 3c1 | 02/04/2024 | 13:44:36 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3c2 | 02/05/2024 | 06:08:59 | Power Unit #0xff | Power off/down | Asserted
+ 3c3 | 02/05/2024 | 06:11:41 | Power Unit #0xff | Power off/down | Deasserted
+ 3c4 | 02/05/2024 | 06:12:13 | System Event | OEM System boot event | Asserted
+ 3c5 | 02/05/2024 | 06:14:54 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3c6 | 02/17/2024 | 13:41:54 | Power Unit #0xff | Power off/down | Asserted
+ 3c7 | 02/18/2024 | 08:33:55 | Power Unit #0xff | Power off/down | Deasserted
+ 3c8 | 02/18/2024 | 08:34:25 | System Event | OEM System boot event | Asserted
+ 3c9 | 02/18/2024 | 08:34:35 | System Event | Timestamp Clock Sync | Asserted
+ 3ca | 02/18/2024 | 08:34:35 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3cb | 02/18/2024 | 08:34:39 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3cc | 02/18/2024 | 08:34:41 | System Event | Timestamp Clock Sync | Asserted
+ 3cd | 02/18/2024 | 08:35:43 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ce | 02/18/2024 | 13:33:20 | Power Unit #0xff | Power off/down | Asserted
+ 3cf | 02/18/2024 | 13:33:41 | Processor CPU0_Status | Presence detected | Asserted
+ 3d0 | 02/18/2024 | 13:46:57 | Power Unit #0xff | Power off/down | Deasserted
+ 3d1 | 02/18/2024 | 13:47:20 | System Event | OEM System boot event | Asserted
+ 3d2 | 02/18/2024 | 13:47:28 | System Event | Timestamp Clock Sync | Asserted
+ 3d3 | 02/18/2024 | 13:47:28 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3d4 | 02/18/2024 | 14:42:05 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3d5 | 02/18/2024 | 14:42:06 | System Event | Timestamp Clock Sync | Asserted
+ 3d6 | 02/18/2024 | 14:43:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3d7 | 02/18/2024 | 14:43:59 | OS Boot | C: boot completed | Asserted
+ 3d8 | 02/18/2024 | 14:43:59 | OEM record dc | 000137 | 00a817d26500
+ 3d9 | 02/18/2024 | 14:59:25 | System Event | OEM System boot event | Asserted
+ 3da | 02/18/2024 | 15:00:26 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3db | 02/18/2024 | 15:00:30 | OS Boot | C: boot completed | Asserted
+ 3dc | 02/18/2024 | 15:00:30 | OEM record dc | 000137 | 008c1bd26500
+ 3dd | 02/18/2024 | 15:04:45 | System Event | OEM System boot event | Asserted
+ 3de | 02/18/2024 | 15:05:46 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3df | 02/18/2024 | 15:05:50 | OS Boot | C: boot completed | Asserted
+ 3e0 | 02/18/2024 | 15:05:50 | OEM record dc | 000137 | 00cd1cd26500
+ 3e1 | 02/18/2024 | 15:12:20 | OS Critical Stop | OS graceful shutdown | Asserted
+ 3e2 | 02/18/2024 | 15:12:20 | OEM record dd | 000137 | 00ff00050000
+ 3e3 | 02/18/2024 | 15:12:44 | System Event | OEM System boot event | Asserted
+ 3e4 | 02/18/2024 | 15:13:46 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3e5 | 02/18/2024 | 15:13:49 | OS Boot | C: boot completed | Asserted
+ 3e6 | 02/18/2024 | 15:13:49 | OEM record dc | 000137 | 00ac1ed26500
+ 3e7 | 02/18/2024 | 15:17:06 | OS Critical Stop | OS graceful shutdown | Asserted
+ 3e8 | 02/18/2024 | 15:17:06 | OEM record dd | 000137 | 000000000000
+ 3e9 | 02/18/2024 | 15:17:08 | Power Unit #0xff | Power off/down | Asserted
+ 3ea | 02/18/2024 | 15:17:17 | Power Unit #0xff | Power off/down | Deasserted
+ 3eb | 02/18/2024 | 15:17:39 | System Event | OEM System boot event | Asserted
+ 3ec | 02/18/2024 | 15:18:33 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ed | 02/18/2024 | 15:18:36 | OS Boot | C: boot completed | Asserted
+ 3ee | 02/18/2024 | 15:18:36 | OEM record dc | 000137 | 00cb1fd26500
+ 3ef | 02/18/2024 | 15:26:45 | OS Critical Stop | OS graceful shutdown | Asserted
+ 3f0 | 02/18/2024 | 15:26:45 | OEM record dd | 000137 | 000000000000
+ 3f1 | 02/18/2024 | 15:27:09 | System Event | OEM System boot event | Asserted
+ 3f2 | 02/18/2024 | 15:28:25 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3f3 | 02/18/2024 | 15:46:15 | System Event | OEM System boot event | Asserted
+ 3f4 | 02/18/2024 | 15:46:30 | System Event | Timestamp Clock Sync | Asserted
+ 3f5 | 02/18/2024 | 15:46:30 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3f6 | 02/18/2024 | 23:46:30 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3f7 | 02/18/2024 | 23:46:31 | System Event | Timestamp Clock Sync | Asserted
+ 3f8 | 02/18/2024 | 23:47:26 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3f9 | 02/18/2024 | 23:52:12 | Power Unit #0xff | Power off/down | Asserted
+ 3fa | 02/18/2024 | 23:52:51 | Power Unit #0xff | Power off/down | Deasserted
+ 3fb | 02/18/2024 | 23:53:13 | System Event | OEM System boot event | Asserted
+ 3fc | 02/18/2024 | 23:53:21 | System Event | Timestamp Clock Sync | Asserted
+ 3fd | 02/18/2024 | 23:53:22 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3fe | 02/18/2024 | 15:53:23 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3ff | 02/18/2024 | 15:53:23 | System Event | Timestamp Clock Sync | Asserted
+ 400 | 02/18/2024 | 15:54:24 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 401 | 02/18/2024 | 15:55:08 | System Event | OEM System boot event | Asserted
+ 402 | 02/18/2024 | 15:56:21 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 403 | 02/18/2024 | 15:56:24 | OS Boot | C: boot completed | Asserted
+ 404 | 02/18/2024 | 15:56:24 | OEM record dc | 000137 | 00a728d26500
+ 405 | 02/18/2024 | 16:14:35 | OS Critical Stop | OS graceful shutdown | Asserted
+ 406 | 02/18/2024 | 16:14:35 | OEM record dd | 000137 | 00ff00050000
+ 407 | 02/18/2024 | 16:14:59 | System Event | OEM System boot event | Asserted
+ 408 | 02/18/2024 | 16:16:07 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 409 | 02/18/2024 | 16:16:11 | OS Boot | C: boot completed | Asserted
+ 40a | 02/18/2024 | 16:16:11 | OEM record dc | 000137 | 00492dd26500
+ 40b | 02/18/2024 | 16:20:43 | OS Critical Stop | OS graceful shutdown | Asserted
+ 40c | 02/18/2024 | 16:20:43 | OEM record dd | 000137 | 000000000000
+ 40d | 02/18/2024 | 16:21:07 | System Event | OEM System boot event | Asserted
+ 40e | 02/18/2024 | 16:24:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 40f | 02/19/2024 | 02:05:44 | System Event | OEM System boot event | Asserted
+ 410 | 02/19/2024 | 02:06:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 411 | 02/19/2024 | 02:07:56 | System Event | OEM System boot event | Asserted
+ 412 | 02/19/2024 | 02:09:02 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 413 | 02/19/2024 | 02:09:05 | OS Boot | C: boot completed | Asserted
+ 414 | 02/19/2024 | 02:09:05 | OEM record dc | 000137 | 0040b8d26500
+ 415 | 02/19/2024 | 02:13:21 | OS Critical Stop | OS graceful shutdown | Asserted
+ 416 | 02/19/2024 | 02:13:21 | OEM record dd | 000137 | 000000000000
+ 417 | 02/19/2024 | 02:13:44 | System Event | OEM System boot event | Asserted
+ 418 | 02/19/2024 | 02:15:05 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 419 | 02/19/2024 | 02:29:05 | System Event | OEM System boot event | Asserted
+ 41a | 02/19/2024 | 02:30:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 41b | 02/19/2024 | 02:36:58 | System Event | OEM System boot event | Asserted
+ 41c | 02/19/2024 | 02:38:12 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 41d | 02/19/2024 | 02:40:54 | Power Unit #0xff | Power off/down | Asserted
+ 41e | 02/19/2024 | 02:42:14 | System Event | OEM System boot event | Asserted
+ 41f | 02/19/2024 | 02:42:24 | System Event | Timestamp Clock Sync | Asserted
+ 420 | 02/19/2024 | 02:42:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 421 | 02/19/2024 | 02:46:54 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 422 | 02/19/2024 | 02:46:54 | System Event | Timestamp Clock Sync | Asserted
+ 423 | 02/19/2024 | 02:47:45 | Processor CPU0_Status | Presence detected | Asserted
+ 424 | 02/19/2024 | 02:48:15 | Power Unit #0xff | Power off/down | Asserted
+ 425 | 02/19/2024 | 02:48:20 | Power Unit #0xff | Power off/down | Deasserted
+ 426 | 02/19/2024 | 02:48:43 | System Event | OEM System boot event | Asserted
+ 427 | 02/19/2024 | 02:49:50 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 428 | 02/19/2024 | 02:51:24 | System Event | OEM System boot event | Asserted
+ 429 | 02/19/2024 | 02:52:54 | Power Unit #0xff | Power off/down | Asserted
+ 42a | 02/19/2024 | 02:52:59 | Power Unit #0xff | Power off/down | Deasserted
+ 42b | 02/19/2024 | 02:53:21 | System Event | OEM System boot event | Asserted
+ 42c | 02/19/2024 | 02:54:23 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 42d | 02/19/2024 | 02:55:28 | Power Unit #0xff | Power off/down | Asserted
+ 42e | 02/19/2024 | 02:56:48 | System Event | OEM System boot event | Asserted
+ 42f | 02/19/2024 | 02:56:58 | System Event | Timestamp Clock Sync | Asserted
+ 430 | 02/19/2024 | 02:56:58 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 431 | 02/19/2024 | 03:02:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 432 | 02/19/2024 | 03:02:24 | System Event | Timestamp Clock Sync | Asserted
+ 433 | 02/19/2024 | 03:03:15 | Processor CPU0_Status | Presence detected | Asserted
+ 434 | 02/19/2024 | 03:03:37 | Power Unit #0xff | Power off/down | Asserted
+ 435 | 02/19/2024 | 03:03:42 | Power Unit #0xff | Power off/down | Deasserted
+ 436 | 02/19/2024 | 03:04:04 | System Event | OEM System boot event | Asserted
+ 437 | 02/19/2024 | 03:05:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 438 | 02/19/2024 | 03:06:51 | System Event | OEM System boot event | Asserted
+ 439 | 02/19/2024 | 03:07:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 43a | 02/19/2024 | 03:07:59 | OS Boot | C: boot completed | Asserted
+ 43b | 02/19/2024 | 03:07:59 | OEM record dc | 000137 | 000dc6d26500
+ 43c | 02/19/2024 | 03:09:34 | OS Critical Stop | OS graceful shutdown | Asserted
+ 43d | 02/19/2024 | 03:09:34 | OEM record dd | 000137 | 000000000000
+ 43e | 02/19/2024 | 03:09:35 | Power Unit #0xff | Power off/down | Asserted
+ 43f | 02/19/2024 | 03:11:50 | Power Unit #0xff | Power off/down | Deasserted
+ 440 | 02/19/2024 | 03:12:13 | System Event | OEM System boot event | Asserted
+ 441 | 02/19/2024 | 03:13:15 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 442 | 02/19/2024 | 03:17:16 | Power Unit #0xff | Power off/down | Asserted
+ 443 | 02/19/2024 | 03:18:37 | System Event | OEM System boot event | Asserted
+ 444 | 02/19/2024 | 03:18:46 | System Event | Timestamp Clock Sync | Asserted
+ 445 | 02/19/2024 | 03:18:46 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 446 | 02/19/2024 | 03:21:46 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 447 | 02/19/2024 | 03:21:46 | System Event | Timestamp Clock Sync | Asserted
+ 448 | 02/19/2024 | 03:22:38 | Processor CPU0_Status | Presence detected | Asserted
+ 449 | 02/19/2024 | 03:23:06 | System Event | OEM System boot event | Asserted
+ 44a | 02/19/2024 | 03:24:14 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 44b | 02/19/2024 | 03:24:58 | Power Unit #0xff | Power off/down | Asserted
+ 44c | 02/19/2024 | 03:26:19 | System Event | OEM System boot event | Asserted
+ 44d | 02/19/2024 | 03:26:28 | System Event | Timestamp Clock Sync | Asserted
+ 44e | 02/19/2024 | 03:26:28 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 44f | 02/19/2024 | 03:32:55 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 450 | 02/19/2024 | 03:32:55 | System Event | Timestamp Clock Sync | Asserted
+ 451 | 02/19/2024 | 03:33:46 | Processor CPU0_Status | Presence detected | Asserted
+ 452 | 02/19/2024 | 03:34:15 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 453 | 02/19/2024 | 03:50:47 | Power Unit #0xff | Power off/down | Asserted
+ 454 | 02/19/2024 | 03:51:09 | Processor CPU0_Status | Presence detected | Asserted
+ 455 | 02/19/2024 | 03:52:00 | Power Unit #0xff | Power off/down | Deasserted
+ 456 | 02/19/2024 | 03:53:02 | System Event | OEM System boot event | Asserted
+ 457 | 02/19/2024 | 03:53:11 | System Event | Timestamp Clock Sync | Asserted
+ 458 | 02/19/2024 | 03:53:11 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 459 | 02/19/2024 | 04:00:33 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 45a | 02/19/2024 | 04:00:34 | System Event | Timestamp Clock Sync | Asserted
+ 45b | 02/19/2024 | 04:01:39 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 45c | 02/19/2024 | 04:08:00 | Power Unit #0xff | Power off/down | Asserted
+ 45d | 02/19/2024 | 04:14:52 | Power Unit #0xff | Power off/down | Deasserted
+ 45e | 02/19/2024 | 04:15:14 | System Event | OEM System boot event | Asserted
+ 45f | 02/19/2024 | 04:16:20 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 460 | 02/19/2024 | 04:25:35 | Power Unit #0xff | Power off/down | Asserted
+ 461 | 02/19/2024 | 04:57:37 | Power Unit #0xff | Power off/down | Deasserted
+ 462 | 02/19/2024 | 04:58:00 | System Event | OEM System boot event | Asserted
+ 463 | 02/19/2024 | 04:58:58 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 464 | 02/19/2024 | 04:59:01 | OS Boot | C: boot completed | Asserted
+ 465 | 02/19/2024 | 04:59:01 | OEM record dc | 000137 | 0014e0d26500
+ 466 | 02/19/2024 | 06:14:58 | OS Critical Stop | OS graceful shutdown | Asserted
+ 467 | 02/19/2024 | 06:14:58 | OEM record dd | 000137 | 000000000000
+ 468 | 02/19/2024 | 06:15:00 | Power Unit #0xff | Power off/down | Asserted
+ 469 | 02/19/2024 | 06:16:21 | System Event | OEM System boot event | Asserted
+ 46a | 02/19/2024 | 06:16:29 | System Event | Timestamp Clock Sync | Asserted
+ 46b | 02/19/2024 | 06:16:30 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 46c | 02/19/2024 | 14:50:36 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 46d | 02/19/2024 | 14:50:36 | System Event | Timestamp Clock Sync | Asserted
+ 46e | 02/19/2024 | 14:51:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 46f | 02/19/2024 | 14:51:28 | Processor CPU0_Status | Presence detected | Asserted
+ 470 | 02/19/2024 | 14:51:30 | OS Boot | C: boot completed | Asserted
+ 471 | 02/19/2024 | 14:51:30 | OEM record dc | 000137 | 00f16ad36500
+ 472 | 02/19/2024 | 14:52:18 | OS Critical Stop | Run-time critical stop | Asserted
+ 473 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 011601000001
+ 474 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 0250247f3401
+ 475 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 028ce4ffff01
+ 476 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 0370baa22e01
+ 477 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 0307f8ffff01
+ 478 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 040000000001
+ 479 | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 040000000001
+ 47a | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 050d00000001
+ 47b | 02/19/2024 | 14:52:18 | OEM record de | 000137 | 050000000001
+ 47c | 02/19/2024 | 14:52:55 | System Event | OEM System boot event | Asserted
+ 47d | 02/19/2024 | 14:54:12 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 47e | 02/19/2024 | 14:54:53 | System Event | OEM System boot event | Asserted
+ 47f | 02/19/2024 | 14:55:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 480 | 02/19/2024 | 14:56:00 | OS Boot | C: boot completed | Asserted
+ 481 | 02/19/2024 | 14:56:00 | OEM record dc | 000137 | 00fe6bd36500
+ 482 | 02/19/2024 | 15:12:56 | OS Critical Stop | OS graceful shutdown | Asserted
+ 483 | 02/19/2024 | 15:12:56 | OEM record dd | 000137 | 000000000000
+ 484 | 02/19/2024 | 15:12:58 | Power Unit #0xff | Power off/down | Asserted
+ 485 | 02/19/2024 | 15:14:19 | System Event | OEM System boot event | Asserted
+ 486 | 02/19/2024 | 15:14:27 | System Event | Timestamp Clock Sync | Asserted
+ 487 | 02/19/2024 | 15:14:27 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 488 | 02/19/2024 | 15:36:36 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 489 | 02/19/2024 | 15:36:36 | System Event | Timestamp Clock Sync | Asserted
+ 48a | 02/19/2024 | 15:37:29 | Processor CPU0_Status | Presence detected | Asserted
+ 48b | 02/19/2024 | 15:37:33 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 48c | 02/19/2024 | 16:36:53 | System Event | OEM System boot event | Asserted
+ 48d | 02/19/2024 | 16:37:08 | System Event | Timestamp Clock Sync | Asserted
+ 48e | 02/19/2024 | 16:37:08 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 48f | 02/19/2024 | 08:37:10 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 490 | 02/19/2024 | 08:37:11 | System Event | Timestamp Clock Sync | Asserted
+ 491 | 02/19/2024 | 08:38:08 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 492 | 02/19/2024 | 09:54:38 | Power Unit #0xff | Power off/down | Asserted
+ 493 | 02/19/2024 | 09:54:45 | Power Unit #0xff | Power off/down | Deasserted
+ 494 | 02/19/2024 | 09:55:08 | System Event | OEM System boot event | Asserted
+ 495 | 02/19/2024 | 09:56:23 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 496 | 02/19/2024 | 09:57:57 | System Event | OEM System boot event | Asserted
+ 497 | 02/19/2024 | 09:59:04 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 498 | 02/19/2024 | 10:00:28 | OS Critical Stop | Run-time critical stop | Asserted
+ 499 | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 011601000001
+ 49a | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 0210f0be0001
+ 49b | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 028a93ffff01
+ 49c | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 0370ba28fd01
+ 49d | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 0301f8ffff01
+ 49e | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 040000000001
+ 49f | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 040000000001
+ 4a0 | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 050d00000001
+ 4a1 | 02/19/2024 | 10:00:28 | OEM record de | 000137 | 050000000001
+ 4a2 | 02/19/2024 | 10:01:05 | System Event | OEM System boot event | Asserted
+ 4a3 | 02/19/2024 | 10:01:20 | System Event | Timestamp Clock Sync | Asserted
+ 4a4 | 02/19/2024 | 10:01:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4a5 | 02/19/2024 | 18:01:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4a6 | 02/19/2024 | 18:01:22 | System Event | Timestamp Clock Sync | Asserted
+ 4a7 | 02/19/2024 | 18:02:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4a8 | 02/19/2024 | 18:02:13 | OS Boot | C: boot completed | Asserted
+ 4a9 | 02/19/2024 | 18:02:13 | OEM record dc | 000137 | 00a497d36500
+ 4aa | 02/19/2024 | 18:24:51 | OS Critical Stop | OS graceful shutdown | Asserted
+ 4ab | 02/19/2024 | 18:24:51 | OEM record dd | 000137 | 000000000000
+ 4ac | 02/19/2024 | 18:25:15 | System Event | OEM System boot event | Asserted
+ 4ad | 02/19/2024 | 18:26:25 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4ae | 02/19/2024 | 18:33:13 | Power Unit #0xff | Power off/down | Asserted
+ 4af | 02/19/2024 | 19:29:05 | Power Unit #0xff | Power off/down | Deasserted
+ 4b0 | 02/19/2024 | 19:29:28 | System Event | OEM System boot event | Asserted
+ 4b1 | 02/19/2024 | 19:29:37 | System Event | Timestamp Clock Sync | Asserted
+ 4b2 | 02/19/2024 | 19:29:37 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4b3 | 02/19/2024 | 11:29:38 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4b4 | 02/19/2024 | 11:29:39 | System Event | Timestamp Clock Sync | Asserted
+ 4b5 | 02/19/2024 | 11:37:45 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4b6 | 02/19/2024 | 11:53:12 | Power Unit #0xff | Power off/down | Asserted
+ 4b7 | 02/19/2024 | 11:54:33 | System Event | OEM System boot event | Asserted
+ 4b8 | 02/19/2024 | 11:54:41 | System Event | Timestamp Clock Sync | Asserted
+ 4b9 | 02/19/2024 | 11:54:41 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4ba | 02/19/2024 | 12:10:34 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4bb | 02/19/2024 | 12:10:34 | System Event | Timestamp Clock Sync | Asserted
+ 4bc | 02/19/2024 | 12:11:26 | Processor CPU0_Status | Presence detected | Asserted
+ 4bd | 02/19/2024 | 12:15:28 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4be | 02/19/2024 | 12:19:38 | Power Unit #0xff | Power off/down | Asserted
+ 4bf | 02/19/2024 | 12:19:43 | Power Unit #0xff | Power off/down | Deasserted
+ 4c0 | 02/19/2024 | 12:20:07 | System Event | OEM System boot event | Asserted
+ 4c1 | 02/19/2024 | 12:22:38 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4c2 | 02/20/2024 | 05:20:14 | Power Unit #0xff | Power off/down | Asserted
+ 4c3 | 02/20/2024 | 05:21:35 | System Event | OEM System boot event | Asserted
+ 4c4 | 02/20/2024 | 05:21:43 | System Event | Timestamp Clock Sync | Asserted
+ 4c5 | 02/20/2024 | 05:21:43 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4c6 | 02/21/2024 | 03:12:36 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4c7 | 02/21/2024 | 03:12:36 | System Event | Timestamp Clock Sync | Asserted
+ 4c8 | 02/21/2024 | 03:13:28 | Processor CPU0_Status | Presence detected | Asserted
+ 4c9 | 02/21/2024 | 03:13:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4ca | 02/21/2024 | 03:32:12 | System Event | OEM System boot event | Asserted
+ 4cb | 02/21/2024 | 03:33:24 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4cc | 02/21/2024 | 03:33:27 | OS Boot | C: boot completed | Asserted
+ 4cd | 02/21/2024 | 03:33:27 | OEM record dc | 000137 | 00036fd56500
+ 4ce | 02/21/2024 | 03:54:37 | OS Critical Stop | OS graceful shutdown | Asserted
+ 4cf | 02/21/2024 | 03:54:37 | OEM record dd | 000137 | 000000000000
+ 4d0 | 02/21/2024 | 03:55:01 | System Event | OEM System boot event | Asserted
+ 4d1 | 02/21/2024 | 03:56:07 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4d2 | 02/21/2024 | 03:56:11 | OS Boot | C: boot completed | Asserted
+ 4d3 | 02/21/2024 | 03:56:11 | OEM record dc | 000137 | 005774d56500
+ 4d4 | 02/21/2024 | 04:42:49 | OS Critical Stop | Run-time critical stop | Asserted
+ 4d5 | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 013901000001
+ 4d6 | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 021d00000001
+ 4d7 | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 020000000001
+ 4d8 | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 032032e5d701
+ 4d9 | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 038482ffff01
+ 4da | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 047831e5d701
+ 4db | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 048482ffff01
+ 4dc | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 050000000001
+ 4dd | 02/21/2024 | 04:42:49 | OEM record de | 000137 | 050000000001
+ 4de | 02/21/2024 | 04:43:27 | System Event | OEM System boot event | Asserted
+ 4df | 02/21/2024 | 04:44:32 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4e0 | 02/21/2024 | 04:44:38 | OS Boot | C: boot completed | Asserted
+ 4e1 | 02/21/2024 | 04:44:38 | OEM record dc | 000137 | 00b07fd56500
+ 4e2 | 02/21/2024 | 04:54:42 | OS Critical Stop | OS graceful shutdown | Asserted
+ 4e3 | 02/21/2024 | 04:54:42 | OEM record dd | 000137 | 001400000000
+ 4e4 | 02/21/2024 | 04:55:06 | System Event | OEM System boot event | Asserted
+ 4e5 | 02/21/2024 | 04:55:21 | System Event | Timestamp Clock Sync | Asserted
+ 4e6 | 02/21/2024 | 04:55:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4e7 | 02/21/2024 | 12:55:20 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4e8 | 02/21/2024 | 12:55:21 | System Event | Timestamp Clock Sync | Asserted
+ 4e9 | 02/21/2024 | 12:56:20 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4ea | 02/21/2024 | 12:56:25 | OS Boot | C: boot completed | Asserted
+ 4eb | 02/21/2024 | 12:56:25 | OEM record dc | 000137 | 00f6f2d56500
+ 4ec | 02/21/2024 | 14:07:22 | OS Critical Stop | OS graceful shutdown | Asserted
+ 4ed | 02/21/2024 | 14:07:22 | OEM record dd | 000137 | 000000000000
+ 4ee | 02/21/2024 | 14:07:24 | Power Unit #0xff | Power off/down | Asserted
+ 4ef | 02/21/2024 | 14:08:25 | Power Unit #0xff | Power off/down | Deasserted
+ 4f0 | 02/21/2024 | 14:08:48 | System Event | OEM System boot event | Asserted
+ 4f1 | 02/21/2024 | 14:09:54 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4f2 | 02/21/2024 | 14:49:47 | System Event | OEM System boot event | Asserted
+ 4f3 | 02/21/2024 | 14:50:02 | System Event | Timestamp Clock Sync | Asserted
+ 4f4 | 02/21/2024 | 14:50:02 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4f5 | 02/21/2024 | 06:50:02 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4f6 | 02/21/2024 | 06:50:03 | System Event | Timestamp Clock Sync | Asserted
+ 4f7 | 02/21/2024 | 06:50:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4f8 | 02/21/2024 | 06:55:18 | OS Critical Stop | OS graceful shutdown | Asserted
+ 4f9 | 02/21/2024 | 06:55:18 | OEM record dd | 000137 | 000000000000
+ 4fa | 02/21/2024 | 06:55:20 | Power Unit #0xff | Power off/down | Asserted
+ 4fb | 02/21/2024 | 07:13:59 | Power Unit #0xff | Power off/down | Deasserted
+ 4fc | 02/21/2024 | 07:14:22 | System Event | OEM System boot event | Asserted
+ 4fd | 02/21/2024 | 07:14:31 | System Event | Timestamp Clock Sync | Asserted
+ 4fe | 02/21/2024 | 07:14:31 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4ff | 02/21/2024 | 15:14:33 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 500 | 02/21/2024 | 15:14:34 | System Event | Timestamp Clock Sync | Asserted
+ 501 | 02/21/2024 | 15:15:40 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 502 | 02/21/2024 | 15:19:22 | Power Unit #0xff | Power off/down | Asserted
+ 503 | 02/21/2024 | 15:19:28 | Power Unit #0xff | Power off/down | Deasserted
+ 504 | 02/21/2024 | 15:19:51 | System Event | OEM System boot event | Asserted
+ 505 | 02/21/2024 | 15:19:59 | System Event | Timestamp Clock Sync | Asserted
+ 506 | 02/21/2024 | 15:20:00 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 507 | 02/21/2024 | 07:20:00 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 508 | 02/21/2024 | 07:20:02 | System Event | Timestamp Clock Sync | Asserted
+ 509 | 02/21/2024 | 07:21:05 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 50a | 02/21/2024 | 07:21:42 | Power Unit #0xff | Power off/down | Asserted
+ 50b | 02/21/2024 | 07:22:03 | Processor CPU0_Status | Presence detected | Asserted
+ 50c | 02/21/2024 | 07:22:26 | Processor CPU0_Status | Presence detected | Asserted
+ 50d | 02/21/2024 | 07:23:37 | Power Unit #0xff | Power off/down | Deasserted
+ 50e | 02/21/2024 | 07:23:59 | System Event | OEM System boot event | Asserted
+ 50f | 02/21/2024 | 07:24:07 | System Event | Timestamp Clock Sync | Asserted
+ 510 | 02/21/2024 | 07:24:07 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 511 | 02/21/2024 | 11:04:51 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 512 | 02/21/2024 | 11:04:52 | System Event | Timestamp Clock Sync | Asserted
+ 513 | 02/21/2024 | 11:05:57 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 514 | 02/21/2024 | 14:13:25 | Power Unit #0xff | Power off/down | Asserted
+ 515 | 02/21/2024 | 14:13:47 | Processor CPU0_Status | Presence detected | Asserted
+ 516 | 02/21/2024 | 14:14:09 | Processor CPU0_Status | Presence detected | Asserted
+ 517 | 02/21/2024 | 14:19:06 | Power Unit #0xff | Power off/down | Deasserted
+ 518 | 02/21/2024 | 14:19:29 | System Event | OEM System boot event | Asserted
+ 519 | 02/21/2024 | 14:19:37 | System Event | Timestamp Clock Sync | Asserted
+ 51a | 02/21/2024 | 14:19:37 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 51b | 02/22/2024 | 18:02:29 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 51c | 02/22/2024 | 18:02:30 | System Event | Timestamp Clock Sync | Asserted
+ 51d | 02/22/2024 | 18:03:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 51e | 02/23/2024 | 02:05:52 | Power Unit #0xff | Power off/down | Asserted
+ 51f | 02/23/2024 | 02:16:04 | Power Unit #0xff | Power off/down | Deasserted
+ 520 | 02/23/2024 | 02:16:26 | System Event | OEM System boot event | Asserted
+ 521 | 02/23/2024 | 02:17:29 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 522 | 02/23/2024 | 02:22:52 | Power Unit #0xff | Power off/down | Asserted
+ 523 | 02/23/2024 | 02:23:14 | Processor CPU0_Status | Presence detected | Asserted
+ 524 | 02/23/2024 | 02:24:35 | System Event | OEM System boot event | Asserted
+ 525 | 02/23/2024 | 02:24:44 | System Event | Timestamp Clock Sync | Asserted
+ 526 | 02/23/2024 | 02:24:44 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 527 | 02/27/2024 | 12:41:57 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 528 | 02/27/2024 | 12:41:57 | System Event | Timestamp Clock Sync | Asserted
+ 529 | 02/27/2024 | 12:42:48 | Processor CPU0_Status | Presence detected | Asserted
+ 52a | 02/27/2024 | 12:43:01 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 52b | 02/27/2024 | 12:43:07 | OS Boot | C: boot completed | Asserted
+ 52c | 02/27/2024 | 12:43:07 | OEM record dc | 000137 | 00d8d8dd6500
+ 52d | 02/29/2024 | 02:08:52 | OS Critical Stop | OS graceful shutdown | Asserted
+ 52e | 02/29/2024 | 02:08:52 | OEM record dd | 000137 | 000000000000
+ 52f | 02/29/2024 | 02:09:16 | System Event | OEM System boot event | Asserted
+ 530 | 02/29/2024 | 02:09:31 | System Event | Timestamp Clock Sync | Asserted
+ 531 | 02/29/2024 | 02:09:31 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 532 | 02/29/2024 | 10:09:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 533 | 02/29/2024 | 10:09:26 | System Event | Timestamp Clock Sync | Asserted
+ 534 | 02/29/2024 | 10:10:30 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 535 | 02/29/2024 | 10:28:17 | Power Unit #0xff | Power off/down | Asserted
+ 536 | 03/01/2024 | 15:01:14 | Power Unit #0xff | Power off/down | Deasserted
+ 537 | 03/01/2024 | 15:01:36 | System Event | OEM System boot event | Asserted
+ 538 | 03/01/2024 | 15:01:44 | System Event | Timestamp Clock Sync | Asserted
+ 539 | 03/01/2024 | 15:01:45 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 53a | 03/01/2024 | 07:01:48 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 53b | 03/01/2024 | 07:01:49 | System Event | Timestamp Clock Sync | Asserted
+ 53c | 03/01/2024 | 07:02:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 53d | 03/01/2024 | 14:27:11 | System Event | OEM System boot event | Asserted
+ 53e | 03/01/2024 | 14:28:21 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 53f | 03/01/2024 | 15:22:35 | System Event | OEM System boot event | Asserted
+ 540 | 03/01/2024 | 15:23:48 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 541 | 03/01/2024 | 17:40:57 | System Event | OEM System boot event | Asserted
+ 542 | 03/01/2024 | 17:42:08 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 543 | 03/04/2024 | 14:41:49 | Power Unit #0xff | Power off/down | Asserted
+ 544 | 03/04/2024 | 14:42:11 | Processor CPU0_Status | Presence detected | Asserted
+ 545 | 03/04/2024 | 14:43:12 | Power Unit #0xff | Power off/down | Deasserted
+ 546 | 03/04/2024 | 14:43:35 | System Event | OEM System boot event | Asserted
+ 547 | 03/04/2024 | 14:43:44 | System Event | Timestamp Clock Sync | Asserted
+ 548 | 03/04/2024 | 14:43:44 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 549 | 03/04/2024 | 14:45:05 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 54a | 03/04/2024 | 14:45:06 | System Event | Timestamp Clock Sync | Asserted
+ 54b | 03/04/2024 | 14:46:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 54c | 03/05/2024 | 14:47:33 | Power Unit #0xff | Power off/down | Asserted
+ 54d | 03/05/2024 | 14:47:39 | Power Unit #0xff | Power off/down | Deasserted
+ 54e | 03/05/2024 | 14:48:02 | System Event | OEM System boot event | Asserted
+ 54f | 03/05/2024 | 14:48:57 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 550 | 03/05/2024 | 14:49:03 | OS Boot | C: boot completed | Asserted
+ 551 | 03/05/2024 | 14:49:03 | OEM record dc | 000137 | 00dc30e76500
+ 552 | 03/05/2024 | 15:12:46 | OS Critical Stop | OS graceful shutdown | Asserted
+ 553 | 03/05/2024 | 15:12:46 | OEM record dd | 000137 | 00ff00050000
+ 554 | 03/05/2024 | 15:13:11 | System Event | OEM System boot event | Asserted
+ 555 | 03/05/2024 | 15:14:22 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 556 | 03/05/2024 | 15:16:51 | System Event | OEM System boot event | Asserted
+ 557 | 03/05/2024 | 15:17:59 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 558 | 03/05/2024 | 15:18:04 | OS Boot | C: boot completed | Asserted
+ 559 | 03/05/2024 | 15:18:04 | OEM record dc | 000137 | 00aa37e76500
+ 55a | 03/05/2024 | 15:33:08 | OS Critical Stop | OS graceful shutdown | Asserted
+ 55b | 03/05/2024 | 15:33:08 | OEM record dd | 000137 | 000000000000
+ 55c | 03/05/2024 | 15:33:33 | System Event | OEM System boot event | Asserted
+ 55d | 03/05/2024 | 15:33:48 | System Event | Timestamp Clock Sync | Asserted
+ 55e | 03/05/2024 | 15:33:48 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 55f | 03/05/2024 | 23:33:50 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 560 | 03/05/2024 | 23:33:51 | System Event | Timestamp Clock Sync | Asserted
+ 561 | 03/05/2024 | 23:34:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 562 | 03/05/2024 | 23:34:55 | OS Boot | C: boot completed | Asserted
+ 563 | 03/05/2024 | 23:34:55 | OEM record dc | 000137 | 001dace76500
+ 564 | 03/06/2024 | 00:14:46 | OS Critical Stop | OS graceful shutdown | Asserted
+ 565 | 03/06/2024 | 00:14:47 | OEM record dd | 000137 | 000000000000
+ 566 | 03/06/2024 | 00:15:11 | System Event | OEM System boot event | Asserted
+ 567 | 03/06/2024 | 00:16:13 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 568 | 03/06/2024 | 00:16:18 | OS Boot | C: boot completed | Asserted
+ 569 | 03/06/2024 | 00:16:18 | OEM record dc | 000137 | 00cfb5e76500
+ 56a | 03/06/2024 | 00:47:33 | OS Critical Stop | OS graceful shutdown | Asserted
+ 56b | 03/06/2024 | 00:47:33 | OEM record dd | 000137 | 00ff00050000
+ 56c | 03/06/2024 | 00:47:35 | Power Unit #0xff | Power off/down | Asserted
+ 56d | 03/06/2024 | 00:49:23 | Power Unit #0xff | Power off/down | Deasserted
+ 56e | 03/06/2024 | 00:49:46 | System Event | OEM System boot event | Asserted
+ 56f | 03/06/2024 | 00:50:50 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 570 | 03/06/2024 | 01:02:33 | System Event | OEM System boot event | Asserted
+ 571 | 03/06/2024 | 01:02:41 | System Event | Timestamp Clock Sync | Asserted
+ 572 | 03/06/2024 | 01:02:42 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 573 | 03/05/2024 | 17:02:43 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 574 | 03/05/2024 | 17:02:45 | System Event | Timestamp Clock Sync | Asserted
+ 575 | 03/05/2024 | 17:03:53 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 576 | 03/05/2024 | 17:11:14 | System Event | OEM System boot event | Asserted
+ 577 | 03/05/2024 | 17:12:22 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 578 | 03/06/2024 | 05:06:39 | OS Critical Stop | OS graceful shutdown | Asserted
+ 579 | 03/06/2024 | 05:06:39 | OEM record dd | 000137 | 00ff00050000
+ 57a | 03/06/2024 | 05:07:03 | System Event | OEM System boot event | Asserted
+ 57b | 03/06/2024 | 05:07:20 | System Event | Timestamp Clock Sync | Asserted
+ 57c | 03/06/2024 | 05:07:20 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 57d | 03/06/2024 | 13:07:21 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 57e | 03/06/2024 | 13:07:23 | System Event | Timestamp Clock Sync | Asserted
+ 57f | 03/06/2024 | 13:08:36 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 580 | 03/06/2024 | 13:08:43 | OS Boot | C: boot completed | Asserted
+ 581 | 03/06/2024 | 13:08:43 | OEM record dc | 000137 | 00d76ae86500
+ 582 | 03/06/2024 | 13:14:44 | OS Critical Stop | OS graceful shutdown | Asserted
+ 583 | 03/06/2024 | 13:14:44 | OEM record dd | 000137 | 000000000000
+ 584 | 03/06/2024 | 13:14:45 | Power Unit #0xff | Power off/down | Asserted
+ 585 | 03/06/2024 | 13:15:36 | Power Unit #0xff | Power off/down | Deasserted
+ 586 | 03/06/2024 | 13:16:00 | System Event | OEM System boot event | Asserted
+ 587 | 03/06/2024 | 13:17:10 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 588 | 03/06/2024 | 13:28:47 | System Event | OEM System boot event | Asserted
+ 589 | 03/06/2024 | 13:28:57 | System Event | Timestamp Clock Sync | Asserted
+ 58a | 03/06/2024 | 13:28:57 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 58b | 03/06/2024 | 05:28:58 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 58c | 03/06/2024 | 05:29:00 | System Event | Timestamp Clock Sync | Asserted
+ 58d | 03/06/2024 | 05:29:59 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 58e | 03/06/2024 | 05:40:25 | OS Critical Stop | OS graceful shutdown | Asserted
+ 58f | 03/06/2024 | 05:40:25 | OEM record dd | 000137 | 00ff00050000
+ 590 | 03/06/2024 | 05:40:50 | System Event | OEM System boot event | Asserted
+ 591 | 03/06/2024 | 05:42:06 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 592 | 03/06/2024 | 05:53:32 | OS Critical Stop | OS graceful shutdown | Asserted
+ 593 | 03/06/2024 | 05:53:32 | OEM record dd | 000137 | 000000000000
+ 594 | 03/06/2024 | 05:53:57 | System Event | OEM System boot event | Asserted
+ 595 | 03/06/2024 | 05:54:13 | System Event | Timestamp Clock Sync | Asserted
+ 596 | 03/06/2024 | 05:54:13 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 597 | 03/06/2024 | 13:54:14 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 598 | 03/06/2024 | 13:54:16 | System Event | Timestamp Clock Sync | Asserted
+ 599 | 03/06/2024 | 13:55:22 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 59a | 03/06/2024 | 13:55:27 | OS Boot | C: boot completed | Asserted
+ 59b | 03/06/2024 | 13:55:27 | OEM record dc | 000137 | 00cc75e86500
+ 59c | 03/06/2024 | 16:08:23 | OS Critical Stop | OS graceful shutdown | Asserted
+ 59d | 03/06/2024 | 16:08:23 | OEM record dd | 000137 | 000000000000
+ 59e | 03/06/2024 | 16:08:48 | System Event | OEM System boot event | Asserted
+ 59f | 03/06/2024 | 16:10:04 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5a0 | 03/06/2024 | 16:13:53 | System Event | OEM System boot event | Asserted
+ 5a1 | 03/06/2024 | 16:14:09 | System Event | Timestamp Clock Sync | Asserted
+ 5a2 | 03/06/2024 | 16:14:09 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5a3 | 03/06/2024 | 08:14:10 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5a4 | 03/06/2024 | 08:14:13 | System Event | Timestamp Clock Sync | Asserted
+ 5a5 | 03/06/2024 | 08:15:19 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5a6 | 03/06/2024 | 08:21:41 | System Event | OEM System boot event | Asserted
+ 5a7 | 03/06/2024 | 08:23:00 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5a8 | 03/06/2024 | 08:34:29 | Power Unit #0xff | Power off/down | Asserted
+ 5a9 | 03/06/2024 | 08:34:35 | Power Unit #0xff | Power off/down | Deasserted
+ 5aa | 03/06/2024 | 08:34:58 | System Event | OEM System boot event | Asserted
+ 5ab | 03/06/2024 | 08:37:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5ac | 03/06/2024 | 08:45:53 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5ad | 03/06/2024 | 08:45:53 | OEM record dd | 000137 | 00ff00050000
+ 5ae | 03/06/2024 | 08:45:55 | Power Unit #0xff | Power off/down | Asserted
+ 5af | 03/06/2024 | 08:47:16 | System Event | OEM System boot event | Asserted
+ 5b0 | 03/06/2024 | 08:47:25 | System Event | Timestamp Clock Sync | Asserted
+ 5b1 | 03/06/2024 | 08:47:25 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5b2 | 03/06/2024 | 08:50:37 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5b3 | 03/06/2024 | 08:50:37 | System Event | Timestamp Clock Sync | Asserted
+ 5b4 | 03/06/2024 | 08:51:30 | Processor CPU0_Status | Presence detected | Asserted
+ 5b5 | 03/06/2024 | 08:51:36 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5b6 | 03/06/2024 | 12:57:43 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5b7 | 03/06/2024 | 12:57:43 | OEM record dd | 000137 | 000000000000
+ 5b8 | 03/06/2024 | 12:58:08 | System Event | OEM System boot event | Asserted
+ 5b9 | 03/06/2024 | 12:58:23 | System Event | Timestamp Clock Sync | Asserted
+ 5ba | 03/06/2024 | 12:58:23 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5bb | 03/06/2024 | 20:58:24 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5bc | 03/06/2024 | 20:58:25 | System Event | Timestamp Clock Sync | Asserted
+ 5bd | 03/06/2024 | 20:59:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5be | 03/06/2024 | 20:59:32 | OS Boot | C: boot completed | Asserted
+ 5bf | 03/06/2024 | 20:59:32 | OEM record dc | 000137 | 0031d9e86500
+ 5c0 | 03/06/2024 | 21:07:13 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5c1 | 03/06/2024 | 21:07:13 | OEM record dd | 000137 | 00ff00050000
+ 5c2 | 03/06/2024 | 21:07:15 | Power Unit #0xff | Power off/down | Asserted
+ 5c3 | 03/06/2024 | 21:15:53 | Power Unit #0xff | Power off/down | Deasserted
+ 5c4 | 03/06/2024 | 21:16:15 | System Event | OEM System boot event | Asserted
+ 5c5 | 03/06/2024 | 21:17:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5c6 | 03/06/2024 | 21:17:22 | OS Boot | C: boot completed | Asserted
+ 5c7 | 03/06/2024 | 21:17:22 | OEM record dc | 000137 | 0060dde86500
+ 5c8 | 03/06/2024 | 21:45:53 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5c9 | 03/06/2024 | 21:45:53 | OEM record dd | 000137 | 000000000000
+ 5ca | 03/06/2024 | 21:46:17 | System Event | OEM System boot event | Asserted
+ 5cb | 03/06/2024 | 21:47:28 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5cc | 03/06/2024 | 21:47:33 | OS Boot | C: boot completed | Asserted
+ 5cd | 03/06/2024 | 21:47:33 | OEM record dc | 000137 | 0073e4e86500
+ 5ce | 03/06/2024 | 22:00:15 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5cf | 03/06/2024 | 22:00:15 | OEM record dd | 000137 | 000000000000
+ 5d0 | 03/06/2024 | 22:00:39 | System Event | OEM System boot event | Asserted
+ 5d1 | 03/06/2024 | 22:01:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5d2 | 03/06/2024 | 22:01:56 | OS Boot | C: boot completed | Asserted
+ 5d3 | 03/06/2024 | 22:01:56 | OEM record dc | 000137 | 00d1e7e86500
+ 5d4 | 03/06/2024 | 22:21:14 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5d5 | 03/06/2024 | 22:21:15 | OEM record dd | 000137 | 000000000000
+ 5d6 | 03/06/2024 | 22:21:39 | System Event | OEM System boot event | Asserted
+ 5d7 | 03/06/2024 | 22:22:51 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5d8 | 03/06/2024 | 22:22:56 | OS Boot | C: boot completed | Asserted
+ 5d9 | 03/06/2024 | 22:22:56 | OEM record dc | 000137 | 00bdece86500
+ 5da | 03/06/2024 | 22:44:52 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5db | 03/06/2024 | 22:44:52 | OEM record dd | 000137 | 000000000000
+ 5dc | 03/06/2024 | 22:45:16 | System Event | OEM System boot event | Asserted
+ 5dd | 03/06/2024 | 22:46:27 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5de | 03/06/2024 | 22:46:32 | OS Boot | C: boot completed | Asserted
+ 5df | 03/06/2024 | 22:46:32 | OEM record dc | 000137 | 0046f2e86500
+ 5e0 | 03/07/2024 | 10:49:02 | Power Unit #0xff | Power off/down | Asserted
+ 5e1 | 03/07/2024 | 10:49:09 | Power Unit #0xff | Power off/down | Deasserted
+ 5e2 | 03/07/2024 | 10:49:09 | Power Unit #0xff | Power off/down | Deasserted
+ 5e3 | 03/07/2024 | 10:49:31 | System Event | OEM System boot event | Asserted
+ 5e4 | 03/07/2024 | 10:51:29 | Power Unit #0xff | Power off/down | Asserted
+ 5e5 | 03/07/2024 | 10:51:35 | Power Unit #0xff | Power off/down | Deasserted
+ 5e6 | 03/07/2024 | 10:51:58 | System Event | OEM System boot event | Asserted
+ 5e7 | 03/07/2024 | 10:53:04 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5e8 | 03/07/2024 | 10:53:08 | OS Boot | C: boot completed | Asserted
+ 5e9 | 03/07/2024 | 10:53:09 | OEM record dc | 000137 | 00939ce96500
+ 5ea | 03/07/2024 | 10:56:01 | Power Unit #0xff | Power off/down | Asserted
+ 5eb | 03/07/2024 | 10:56:06 | Power Unit #0xff | Power off/down | Deasserted
+ 5ec | 03/07/2024 | 10:56:29 | System Event | OEM System boot event | Asserted
+ 5ed | 03/07/2024 | 10:59:22 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5ee | 03/07/2024 | 10:59:26 | OS Boot | C: boot completed | Asserted
+ 5ef | 03/07/2024 | 10:59:26 | OEM record dc | 000137 | 000c9ee96500
+ 5f0 | 03/07/2024 | 11:02:34 | Power Unit #0xff | Power off/down | Asserted
+ 5f1 | 03/07/2024 | 11:02:40 | Power Unit #0xff | Power off/down | Deasserted
+ 5f2 | 03/07/2024 | 11:03:03 | System Event | OEM System boot event | Asserted
+ 5f3 | 03/07/2024 | 11:04:37 | Power Unit #0xff | Power off/down | Asserted
+ 5f4 | 03/07/2024 | 11:04:43 | Power Unit #0xff | Power off/down | Deasserted
+ 5f5 | 03/07/2024 | 11:05:05 | System Event | OEM System boot event | Asserted
+ 5f6 | 03/07/2024 | 11:06:14 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5f7 | 03/07/2024 | 11:06:19 | OS Boot | C: boot completed | Asserted
+ 5f8 | 03/07/2024 | 11:06:19 | OEM record dc | 000137 | 00a99fe96500
+ 5f9 | 03/07/2024 | 19:11:45 | OS Critical Stop | OS graceful shutdown | Asserted
+ 5fa | 03/07/2024 | 19:11:45 | OEM record dd | 000137 | 000000000000
+ 5fb | 03/07/2024 | 19:12:10 | System Event | OEM System boot event | Asserted
+ 5fc | 03/07/2024 | 19:12:26 | System Event | Timestamp Clock Sync | Asserted
+ 5fd | 03/07/2024 | 19:12:26 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5fe | 03/07/2024 | 19:12:29 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5ff | 03/07/2024 | 19:12:30 | System Event | Timestamp Clock Sync | Asserted
+ 600 | 03/07/2024 | 19:13:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 601 | 03/07/2024 | 19:13:39 | OS Boot | C: boot completed | Asserted
+ 602 | 03/07/2024 | 19:13:39 | OEM record dc | 000137 | 00e011ea6500
+ 603 | 03/07/2024 | 19:19:48 | OS Critical Stop | OS graceful shutdown | Asserted
+ 604 | 03/07/2024 | 19:19:48 | OEM record dd | 000137 | 000000000000
+ 605 | 03/07/2024 | 19:20:12 | System Event | OEM System boot event | Asserted
+ 606 | 03/07/2024 | 19:21:25 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 607 | 03/07/2024 | 19:21:30 | OS Boot | C: boot completed | Asserted
+ 608 | 03/07/2024 | 19:21:30 | OEM record dc | 000137 | 00b713ea6500
+ 609 | 03/07/2024 | 19:40:12 | OS Critical Stop | OS graceful shutdown | Asserted
+ 60a | 03/07/2024 | 19:40:12 | OEM record dd | 000137 | 000000000000
+ 60b | 03/07/2024 | 19:40:37 | System Event | OEM System boot event | Asserted
+ 60c | 03/07/2024 | 19:41:48 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 60d | 03/07/2024 | 19:41:52 | OS Boot | C: boot completed | Asserted
+ 60e | 03/07/2024 | 19:41:52 | OEM record dc | 000137 | 007d18ea6500
+ 60f | 03/07/2024 | 20:34:54 | OS Critical Stop | OS graceful shutdown | Asserted
+ 610 | 03/07/2024 | 20:34:54 | OEM record dd | 000137 | 000000000000
+ 611 | 03/07/2024 | 20:35:18 | System Event | OEM System boot event | Asserted
+ 612 | 03/07/2024 | 20:36:30 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 613 | 03/07/2024 | 20:36:34 | OS Boot | C: boot completed | Asserted
+ 614 | 03/07/2024 | 20:36:34 | OEM record dc | 000137 | 004f25ea6500
+ 615 | 03/07/2024 | 21:28:07 | OS Critical Stop | OS graceful shutdown | Asserted
+ 616 | 03/07/2024 | 21:28:07 | OEM record dd | 000137 | 000000000000
+ 617 | 03/07/2024 | 21:28:31 | System Event | OEM System boot event | Asserted
+ 618 | 03/07/2024 | 21:29:43 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 619 | 03/07/2024 | 21:29:48 | OS Boot | C: boot completed | Asserted
+ 61a | 03/07/2024 | 21:29:48 | OEM record dc | 000137 | 00c931ea6500
+ 61b | 03/07/2024 | 21:49:55 | OS Critical Stop | OS graceful shutdown | Asserted
+ 61c | 03/07/2024 | 21:49:55 | OEM record dd | 000137 | 000000000000
+ 61d | 03/07/2024 | 21:50:20 | System Event | OEM System boot event | Asserted
+ 61e | 03/07/2024 | 21:51:34 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 61f | 03/07/2024 | 21:51:38 | OS Boot | C: boot completed | Asserted
+ 620 | 03/07/2024 | 21:51:38 | OEM record dc | 000137 | 00e736ea6500
+ 621 | 03/07/2024 | 22:18:38 | OS Critical Stop | OS graceful shutdown | Asserted
+ 622 | 03/07/2024 | 22:18:38 | OEM record dd | 000137 | 000000000000
+ 623 | 03/07/2024 | 22:19:02 | System Event | OEM System boot event | Asserted
+ 624 | 03/07/2024 | 22:20:14 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 625 | 03/07/2024 | 22:20:19 | OS Boot | C: boot completed | Asserted
+ 626 | 03/07/2024 | 22:20:19 | OEM record dc | 000137 | 00a03dea6500
+ 627 | 03/08/2024 | 08:55:22 | OS Critical Stop | OS graceful shutdown | Asserted
+ 628 | 03/08/2024 | 08:55:22 | OEM record dd | 000137 | 000000000000
+ 629 | 03/08/2024 | 08:55:47 | System Event | OEM System boot event | Asserted
+ 62a | 03/08/2024 | 08:56:59 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 62b | 03/08/2024 | 08:57:04 | OS Boot | C: boot completed | Asserted
+ 62c | 03/08/2024 | 08:57:04 | OEM record dc | 000137 | 00ded2ea6500
+ 62d | 03/08/2024 | 18:54:06 | OS Critical Stop | OS graceful shutdown | Asserted
+ 62e | 03/08/2024 | 18:54:06 | OEM record dd | 000137 | 00ff00050000
+ 62f | 03/08/2024 | 18:54:07 | Power Unit #0xff | Power off/down | Asserted
+ 630 | 03/09/2024 | 15:28:44 | Power Unit #0xff | Power off/down | Deasserted
+ 631 | 03/09/2024 | 15:29:07 | System Event | OEM System boot event | Asserted
+ 632 | 03/09/2024 | 15:29:15 | System Event | Timestamp Clock Sync | Asserted
+ 633 | 03/09/2024 | 15:29:15 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 634 | 03/09/2024 | 15:29:18 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 635 | 03/09/2024 | 15:29:19 | System Event | Timestamp Clock Sync | Asserted
+ 636 | 03/09/2024 | 15:30:18 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 637 | 03/09/2024 | 15:30:23 | OS Boot | C: boot completed | Asserted
+ 638 | 03/09/2024 | 15:30:23 | OEM record dc | 000137 | 008c80ec6500
+ 639 | 03/09/2024 | 17:07:28 | OS Critical Stop | OS graceful shutdown | Asserted
+ 63a | 03/09/2024 | 17:07:28 | OEM record dd | 000137 | 00ff00050000
+ 63b | 03/09/2024 | 17:07:30 | Power Unit #0xff | Power off/down | Asserted
+ 63c | 03/09/2024 | 22:17:27 | Power Unit #0xff | Power off/down | Deasserted
+ 63d | 03/09/2024 | 22:17:50 | System Event | OEM System boot event | Asserted
+ 63e | 03/09/2024 | 22:18:55 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 63f | 03/09/2024 | 22:18:59 | OS Boot | C: boot completed | Asserted
+ 640 | 03/09/2024 | 22:18:59 | OEM record dc | 000137 | 004fe0ec6500
+ 641 | 03/09/2024 | 23:17:04 | OS Critical Stop | OS graceful shutdown | Asserted
+ 642 | 03/09/2024 | 23:17:04 | OEM record dd | 000137 | 000000000000
+ 643 | 03/09/2024 | 23:17:28 | System Event | OEM System boot event | Asserted
+ 644 | 03/09/2024 | 23:18:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 645 | 03/09/2024 | 23:31:37 | Power Unit #0xff | Power off/down | Asserted
+ 646 | 03/10/2024 | 10:26:32 | Power Unit #0xff | Power off/down | Deasserted
+ 647 | 03/10/2024 | 10:26:54 | System Event | OEM System boot event | Asserted
+ 648 | 03/10/2024 | 10:27:02 | System Event | Timestamp Clock Sync | Asserted
+ 649 | 03/10/2024 | 10:27:02 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 64a | 03/10/2024 | 02:27:02 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 64b | 03/10/2024 | 02:27:03 | System Event | Timestamp Clock Sync | Asserted
+ 64c | 03/10/2024 | 02:27:58 | System Event | OEM System boot event | Asserted
+ 64d | 03/10/2024 | 02:29:00 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 64e | 03/10/2024 | 04:46:17 | Power Unit #0xff | Power off/down | Asserted
+ 64f | 03/11/2024 | 02:27:58 | Power Unit #0xff | Power off/down | Deasserted
+ 650 | 03/11/2024 | 02:28:21 | System Event | OEM System boot event | Asserted
+ 651 | 03/11/2024 | 02:28:29 | System Event | Timestamp Clock Sync | Asserted
+ 652 | 03/11/2024 | 02:28:30 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 653 | 03/11/2024 | 02:28:32 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 654 | 03/11/2024 | 02:28:33 | System Event | Timestamp Clock Sync | Asserted
+ 655 | 03/11/2024 | 02:29:54 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 656 | 03/12/2024 | 01:41:31 | System Event | OEM System boot event | Asserted
+ 657 | 03/12/2024 | 01:42:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 658 | 03/12/2024 | 01:42:40 | OS Boot | C: boot completed | Asserted
+ 659 | 03/12/2024 | 01:42:40 | OEM record dc | 000137 | 000bb3ef6500
+ 65a | 03/12/2024 | 02:19:02 | OS Critical Stop | OS graceful shutdown | Asserted
+ 65b | 03/12/2024 | 02:19:02 | OEM record dd | 000137 | 000000000000
+ 65c | 03/12/2024 | 02:19:26 | System Event | OEM System boot event | Asserted
+ 65d | 03/12/2024 | 02:19:41 | System Event | Timestamp Clock Sync | Asserted
+ 65e | 03/12/2024 | 02:19:41 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 65f | 03/12/2024 | 10:19:40 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 660 | 03/12/2024 | 10:19:41 | System Event | Timestamp Clock Sync | Asserted
+ 661 | 03/12/2024 | 10:20:44 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 662 | 03/12/2024 | 10:20:49 | OS Boot | C: boot completed | Asserted
+ 663 | 03/12/2024 | 10:20:49 | OEM record dc | 000137 | 007e2cf06500
+ 664 | 03/12/2024 | 10:41:39 | OS Critical Stop | OS graceful shutdown | Asserted
+ 665 | 03/12/2024 | 10:41:39 | OEM record dd | 000137 | 001400000000
+ 666 | 03/12/2024 | 10:42:03 | System Event | OEM System boot event | Asserted
+ 667 | 03/12/2024 | 10:43:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 668 | 03/12/2024 | 10:43:13 | OS Boot | C: boot completed | Asserted
+ 669 | 03/12/2024 | 10:43:14 | OEM record dc | 000137 | 00bf31f06500
+ 66a | 03/12/2024 | 10:51:01 | OS Critical Stop | OS graceful shutdown | Asserted
+ 66b | 03/12/2024 | 10:51:01 | OEM record dd | 000137 | 00ff00050000
+ 66c | 03/12/2024 | 10:51:26 | System Event | OEM System boot event | Asserted
+ 66d | 03/12/2024 | 10:52:29 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 66e | 03/12/2024 | 10:52:35 | OS Boot | C: boot completed | Asserted
+ 66f | 03/12/2024 | 10:52:35 | OEM record dc | 000137 | 00ef33f06500
+ 670 | 03/12/2024 | 11:29:38 | OS Critical Stop | OS graceful shutdown | Asserted
+ 671 | 03/12/2024 | 11:29:38 | OEM record dd | 000137 | 000000000000
+ 672 | 03/12/2024 | 11:30:05 | System Event | OEM System boot event | Asserted
+ 673 | 03/12/2024 | 11:31:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 674 | 03/12/2024 | 11:31:15 | OS Boot | C: boot completed | Asserted
+ 675 | 03/12/2024 | 11:31:15 | OEM record dc | 000137 | 00ff3cf06500
+ 676 | 03/12/2024 | 12:26:03 | OS Critical Stop | OS graceful shutdown | Asserted
+ 677 | 03/12/2024 | 12:26:03 | OEM record dd | 000137 | 00ff00050000
+ 678 | 03/12/2024 | 12:26:05 | Power Unit #0xff | Power off/down | Asserted
+ 679 | 03/12/2024 | 13:56:45 | Power Unit #0xff | Power off/down | Deasserted
+ 67a | 03/12/2024 | 13:57:08 | System Event | OEM System boot event | Asserted
+ 67b | 03/12/2024 | 13:58:04 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 67c | 03/12/2024 | 13:58:10 | OS Boot | C: boot completed | Asserted
+ 67d | 03/12/2024 | 13:58:10 | OEM record dc | 000137 | 006e5ff06500
+ 67e | 03/12/2024 | 14:47:28 | OS Critical Stop | OS graceful shutdown | Asserted
+ 67f | 03/12/2024 | 14:47:28 | OEM record dd | 000137 | 001400000000
+ 680 | 03/12/2024 | 14:47:53 | System Event | OEM System boot event | Asserted
+ 681 | 03/12/2024 | 14:49:01 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 682 | 03/12/2024 | 14:49:08 | OS Boot | C: boot completed | Asserted
+ 683 | 03/12/2024 | 14:49:08 | OEM record dc | 000137 | 00606bf06500
+ 684 | 03/12/2024 | 15:35:44 | OS Critical Stop | OS graceful shutdown | Asserted
+ 685 | 03/12/2024 | 15:35:44 | OEM record dd | 000137 | 000000000000
+ 686 | 03/12/2024 | 15:35:46 | Power Unit #0xff | Power off/down | Asserted
+ 687 | 03/13/2024 | 10:29:19 | Power Unit #0xff | Power off/down | Deasserted
+ 688 | 03/13/2024 | 10:29:42 | System Event | OEM System boot event | Asserted
+ 689 | 03/13/2024 | 10:29:51 | System Event | Timestamp Clock Sync | Asserted
+ 68a | 03/13/2024 | 10:29:51 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 68b | 03/13/2024 | 10:29:54 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 68c | 03/13/2024 | 10:29:55 | System Event | Timestamp Clock Sync | Asserted
+ 68d | 03/13/2024 | 10:31:01 | System Event | OEM System boot event | Asserted
+ 68e | 03/13/2024 | 10:32:18 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 68f | 03/13/2024 | 10:38:43 | System Event | OEM System boot event | Asserted
+ 690 | 03/13/2024 | 10:38:51 | System Event | Timestamp Clock Sync | Asserted
+ 691 | 03/13/2024 | 10:38:51 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 692 | 03/13/2024 | 02:38:50 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 693 | 03/13/2024 | 02:38:51 | System Event | Timestamp Clock Sync | Asserted
+ 694 | 03/13/2024 | 02:39:49 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 695 | 03/13/2024 | 02:43:23 | System Event | OEM System boot event | Asserted
+ 696 | 03/13/2024 | 02:45:17 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 697 | 03/13/2024 | 02:46:01 | System Event | OEM System boot event | Asserted
+ 698 | 03/13/2024 | 02:46:56 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 699 | 03/13/2024 | 02:49:50 | System Event | OEM System boot event | Asserted
+ 69a | 03/13/2024 | 02:53:02 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 69b | 03/13/2024 | 02:59:07 | System Event | OEM System boot event | Asserted
+ 69c | 03/13/2024 | 03:00:09 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 69d | 03/13/2024 | 03:06:17 | System Event | OEM System boot event | Asserted
+ 69e | 03/13/2024 | 03:07:14 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 69f | 03/13/2024 | 04:27:41 | System Event | OEM System boot event | Asserted
+ 6a0 | 03/13/2024 | 04:28:35 | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 6a1 | 03/26/2024 | 07:24:21 | System Event | OEM System boot event | Asserted
+ 6a2 | 03/26/2024 | 07:24:29 | System Event | Timestamp Clock Sync | Asserted
+ 6a3 | 03/26/2024 | 07:24:29 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 6a4 | 03/26/2024 | 07:24:34 | System Event #0xff | Timestamp Clock Sync | Asserted
+ 6a5 | 03/26/2024 | 07:24:37 | System Event | Timestamp Clock Sync | Asserted
+ 6a6 | 03/26/2024 | 07:25:36 | OS Boot #0x22 | boot completed - device not specified | Asserted
